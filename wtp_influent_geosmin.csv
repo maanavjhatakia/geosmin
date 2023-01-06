@@ -1,0 +1,149 @@
+SAMPLE_NUMBER,SAMPLED_DATE,SAMPLE_NAME,SAMPLING_POINT_DESCRIPTION,SITE,FACILITY,ANALYTE,FORMATTED_ENTRY,UNITS,DEPTH,Target,Date ,Time
+232074,1/17/13 12:45,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,7.77,ng/L,,INF,1/17/2013,12:45:00
+232208,1/28/13 8:14,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,6.14,ng/L,,INF,1/28/2013,8:14:00
+233382,2/12/13 9:15,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,6.1,ng/L,,INF,2/12/2013,9:15:00
+233624,2/20/13 11:46,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,4.29,ng/L,,INF,2/20/2013,11:46:00
+233813,2/26/13 9:45,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,3.6,ng/L,,INF,2/26/2013,9:45:00
+239571,5/28/13 14:00,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,2.14,ng/L,,INF,5/28/2013,14:00:00
+241734,7/2/13 13:10,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,7/2/2013,13:10:00
+241735,7/9/13 13:05,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,7/9/2013,13:05:00
+241736,7/16/13 13:35,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,7/16/2013,13:35:00
+241737,7/23/13 11:45,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,4.02,ng/L,,INF,7/23/2013,11:45:00
+241738,7/30/13 12:52,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,2.35,ng/L,,INF,7/30/2013,12:52:00
+254572,2/25/14 13:35,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,1,ng/L,,INF,2/25/2014,13:35:00
+256418,3/4/14 11:15,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,1,ng/L,,INF,3/4/2014,11:15:00
+256419,3/11/14 13:40,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,3/11/2014,13:40:00
+256420,3/18/14 13:15,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,1,ng/L,,INF,3/18/2014,13:15:00
+256421,3/25/14 10:52,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,1,ng/L,,INF,3/25/2014,10:52:00
+258124,4/1/14 11:05,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,1,ng/L,,INF,4/1/2014,11:05:00
+258126,4/15/14 13:10,PL-MAR-INF-A,,"Marston raw, 90 inch",Marston WTP,Geosmin,1,ng/L,,INF,4/15/2014,13:10:00
+258127,4/22/14 14:07,PL-MAR-INF-A,,"Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,4/22/2014,14:07:00
+258128,4/29/14 12:30,PL-MAR-INF-A,,"Marston raw, 90 inch",Marston WTP,Geosmin,1,ng/L,,INF,4/29/2014,12:30:00
+260191,5/20/14 9:30,PL-MAR-INF-A,,"Marston raw, 90 inch",Marston WTP,Geosmin,1,ng/L,,INF,5/20/2014,9:30:00
+260192,5/27/14 12:14,PL-MAR-INF-A,,"Marston raw, 90 inch",Marston WTP,Geosmin,1,ng/L,,INF,5/27/2014,12:14:00
+262130,6/3/14 13:25,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,1,ng/L,,INF,6/3/2014,13:25:00
+262131,6/10/14 14:40,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,1,ng/L,,INF,6/10/2014,14:40:00
+264354,7/15/14 13:50,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,7/15/2014,13:50:00
+264355,7/22/14 13:50,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,1,ng/L,,INF,7/22/2014,13:50:00
+264356,7/29/14 13:55,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,1,ng/L,,INF,7/29/2014,13:55:00
+266726,8/5/14 13:35,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,1,ng/L,,INF,8/5/2014,13:35:00
+266727,8/12/14 14:15,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,8/12/2014,14:15:00
+269384,9/9/14 13:15,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,9/9/2014,13:15:00
+269385,9/16/14 13:30,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,3,ng/L,,INF,9/16/2014,13:30:00
+285593,3/10/15 9:59,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,1,ng/L,,INF,3/10/2015,9:59:00
+285594,3/17/15 11:50,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,3/17/2015,11:50:00
+288313,4/21/15 13:55,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,4/21/2015,13:55:00
+288314,4/28/15 12:09,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,4/28/2015,12:09:00
+292019,5/5/15 14:00,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,5/5/2015,14:00:00
+295960,6/2/15 11:27,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,1,ng/L,,INF,6/2/2015,11:27:00
+320199,12/1/15 10:00,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,4,ng/L,,INF,12/1/2015,10:00:00
+324754,12/8/15 7:47,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,4,ng/L,,INF,12/8/2015,7:47:00
+324755,12/15/15 11:20,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,1,ng/L,,INF,12/15/2015,11:20:00
+351379,7/12/16 13:21,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,4,ng/L,,INF,7/12/2016,13:21:00
+351380,7/19/16 14:20,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,14,ng/L,,INF,7/19/2016,14:20:00
+361264,7/22/16 11:50,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,37,ng/L,,INF,7/22/2016,11:50:00
+361339,7/25/16 7:45,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,46,ng/L,,INF,7/25/2016,7:45:00
+351381,7/26/16 9:34,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,15,ng/L,,INF,7/26/2016,9:34:00
+361650,7/28/16 7:55,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,17,ng/L,,INF,7/28/2016,7:55:00
+356713,8/2/16 13:47,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,1,ng/L,,INF,8/2/2016,13:47:00
+356714,8/9/16 13:19,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,1,ng/L,,INF,8/9/2016,13:19:00
+406341,5/9/17 14:19,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,5/9/2017,14:19:00
+414722,6/6/17 14:23,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,6/6/2017,14:23:00
+414723,6/13/17 13:53,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,1,ng/L,,INF,6/13/2017,13:53:00
+414724,6/20/17 14:06,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,4,ng/L,,INF,6/20/2017,14:06:00
+414725,6/27/17 14:19,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,3,ng/L,,INF,6/27/2017,14:19:00
+419603,7/5/17 7:44,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,7/5/2017,7:44:00
+419604,7/11/17 14:26,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,3,ng/L,,INF,7/11/2017,14:26:00
+419605,7/18/17 14:33,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,5,ng/L,,INF,7/18/2017,14:33:00
+424607,8/15/17 11:48,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,1.17,ng/L,,INF,8/15/2017,11:48:00
+424608,8/22/17 15:05,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,1.17,ng/L,,INF,8/22/2017,15:05:00
+430970,9/5/17 14:32,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,1.37,ng/L,,INF,9/5/2017,14:32:00
+430973,9/26/17 13:42,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,1,ng/L,,INF,9/26/2017,13:42:00
+435989,10/3/17 13:19,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,1,ng/L,,INF,10/3/2017,13:19:00
+435990,10/10/17 13:08,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,1,ng/L,,INF,10/10/2017,13:08:00
+435993,10/31/17 14:04,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,4,ng/L,,INF,10/31/2017,14:04:00
+442718,11/7/17 14:32,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,11/7/2017,14:32:00
+442719,11/15/17 15:24,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,11/15/2017,15:24:00
+449403,12/5/17 13:32,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,3,ng/L,,INF,12/5/2017,13:32:00
+449404,12/12/17 14:06,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,4,ng/L,,INF,12/12/2017,14:06:00
+453981,1/9/18 15:01,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,3,ng/L,,INF,1/9/2018,15:01:00
+453982,1/16/18 14:33,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,1/16/2018,14:33:00
+453983,1/23/18 15:03,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,1/23/2018,15:03:00
+480035,6/5/18 14:13,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,6/5/2018,14:13:00
+556576,4/22/19 10:35,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,4/22/2019,10:35:00
+558284,4/30/19 11:52,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,4/30/2019,11:52:00
+564109,5/14/19 8:59,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,1,ng/L,,INF,5/14/2019,8:59:00
+564658,5/21/19 7:56,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,1,ng/L,,INF,5/21/2019,7:56:00
+569411,6/4/19 8:15,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,1,ng/L,,INF,6/4/2019,8:15:00
+560513,6/18/19 8:30,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,6/18/2019,8:30:00
+573193,6/25/19 7:45,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,6/25/2019,7:45:00
+568986,7/2/19 8:54,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,7/2/2019,8:54:00
+568988,7/9/19 7:01,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,1,ng/L,,INF,7/9/2019,7:01:00
+568990,7/16/19 8:25,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,1,ng/L,,INF,7/16/2019,8:25:00
+568992,7/23/19 8:19,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3,ng/L,,INF,7/23/2019,8:19:00
+582237,7/24/19 12:11,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3,ng/L,,INF,7/24/2019,12:11:00
+568994,7/30/19 7:10,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,7/30/2019,7:10:00
+586664,8/1/19 9:02,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,8/1/2019,9:02:00
+586120,9/17/19 6:46,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3,ng/L,,INF,9/17/2019,6:46:00
+586124,10/1/19 9:21,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2.16,ng/L,,INF,10/1/2019,9:21:00
+598624,10/8/19 9:00,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,10,ng/L,,INF,10/8/2019,9:00:00
+598628,10/15/19 10:00,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,20,ng/L,,INF,10/15/2019,10:00:00
+616282,10/22/19 12:20,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,27,ng/L,,INF,10/22/2019,12:20:00
+675904,3/17/20 11:52,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,3/17/2020,11:52:00
+712797,7/28/20 9:40,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,7,ng/L,,INF,7/28/2020,9:40:00
+784239,9/24/20 8:04,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,7,ng/L,,INF,9/24/2020,8:04:00
+769487,9/29/20 8:19,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,13,ng/L,,INF,9/29/2020,8:19:00
+795579,10/9/20 8:59,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,7,ng/L,,INF,10/9/2020,8:59:00
+771771,10/13/20 8:30,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,6,ng/L,,INF,10/13/2020,8:30:00
+801031,10/16/20 8:57,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,5,ng/L,,INF,10/16/2020,8:57:00
+771773,10/20/20 8:57,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,6,ng/L,,INF,10/20/2020,8:57:00
+804903,10/23/20 8:01,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,6,ng/L,,INF,10/23/2020,8:01:00
+906435,6/29/21 7:39,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,6,ng/L,,INF,6/29/2021,7:39:00
+959782,7/30/21 7:04,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,7/30/2021,7:04:00
+942276,8/3/21 8:32,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3,ng/L,,INF,8/3/2021,8:32:00
+976112,8/27/21 8:41,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3,ng/L,,INF,8/27/2021,8:41:00
+942284,8/30/21 8:30,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,8,ng/L,,INF,8/30/2021,8:30:00
+981431,10/5/21 8:34,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,4,ng/L,,INF,10/5/2021,8:34:00
+1003299,10/8/21 8:23,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3,ng/L,,INF,10/8/2021,8:23:00
+981433,10/12/21 7:44,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,4,ng/L,,INF,10/12/2021,7:44:00
+1003982,10/14/21 8:16,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,5,ng/L,,INF,10/14/2021,8:16:00
+1033575,12/2/21 7:48,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,12/2/2021,7:48:00
+1036688,12/9/21 8:12,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3,ng/L,,INF,12/9/2021,8:12:00
+1016327,12/14/21 8:07,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,4,ng/L,,INF,12/14/2021,8:07:00
+1039257,12/16/21 11:50,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3,ng/L,,INF,12/16/2021,11:50:00
+1016329,12/21/21 8:35,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3,ng/L,,INF,12/21/2021,8:35:00
+1016331,12/28/21 7:45,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,4,ng/L,,INF,12/28/2021,7:45:00
+1044217,12/30/21 7:55,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3,ng/L,,INF,12/30/2021,7:55:00
+1032356,1/4/22 8:38,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3,ng/L,,INF,1/4/2022,8:38:00
+1049796,1/6/22 7:27,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3,ng/L,,INF,1/6/2022,7:27:00
+1032358,1/11/22 8:24,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3,ng/L,,INF,1/11/2022,8:24:00
+1052259,1/13/22 9:22,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3,ng/L,,INF,1/13/2022,9:22:00
+1032360,1/18/22 8:47,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3,ng/L,,INF,1/18/2022,8:47:00
+1054187,1/20/22 8:25,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3,ng/L,,INF,1/20/2022,8:25:00
+1032362,1/25/22 8:46,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,5,ng/L,,INF,1/25/2022,8:46:00
+1055973,1/27/22 8:49,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,4,ng/L,,INF,1/27/2022,8:49:00
+1032364,2/1/22 7:55,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,5,ng/L,,INF,2/1/2022,7:55:00
+1059943,2/3/22 8:40,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,4,ng/L,,INF,2/3/2022,8:40:00
+1046308,2/8/22 8:54,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,5,ng/L,,INF,2/8/2022,8:54:00
+1065890,2/10/22 8:09,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,5,ng/L,,INF,2/10/2022,8:09:00
+1046310,2/15/22 10:16,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3,ng/L,,INF,2/15/2022,10:16:00
+1068128,2/17/22 10:59,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3,ng/L,,INF,2/17/2022,10:59:00
+1046312,2/22/22 9:35,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3,ng/L,,INF,2/22/2022,9:35:00
+1070568,2/24/22 9:47,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3,ng/L,,INF,2/24/2022,9:47:00
+1046314,3/1/22 9:01,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3,ng/L,,INF,3/1/2022,9:01:00
+1076362,3/3/22 9:34,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3,ng/L,,INF,3/3/2022,9:34:00
+1058878,3/8/22 9:32,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,3/8/2022,9:32:00
+1078771,3/10/22 9:35,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3,ng/L,,INF,3/10/2022,9:35:00
+1058880,3/15/22 10:12,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3,ng/L,,INF,3/15/2022,10:12:00
+1081410,3/17/22 9:20,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3,ng/L,,INF,3/17/2022,9:20:00
+1058882,3/22/22 9:30,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3,ng/L,,INF,3/22/2022,9:30:00
+1084427,3/24/22 13:42,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3,ng/L,,INF,3/24/2022,13:42:00
+1058884,3/29/22 9:07,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,3/29/2022,9:07:00
+1086501,3/31/22 8:22,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,3/31/2022,8:22:00
+1091174,4/7/22 9:00,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,4/7/2022,9:00:00
+1074210,4/18/22 10:41,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,4/18/2022,10:41:00
+1088791,5/10/22 9:06,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,5/10/2022,9:06:00
+1111691,5/19/22 10:10,PL-MAR-INF-4,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,5/19/2022,10:10:00
+1114354,5/26/22 15:30,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,5/26/2022,15:30:00
+1119244,6/2/22 9:10,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2,ng/L,,INF,6/2/2022,9:10:00
+1104099,6/7/22 10:09,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3,ng/L,4,INF,6/7/2022,10:09:00

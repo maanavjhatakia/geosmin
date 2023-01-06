@@ -1,0 +1,101 @@
+SAMPLE_NUMBER,SAMPLED_DATE,SAMPLE_NAME,SAMPLING_POINT_DESCRIPTION,SITE,FACILITY,ANALYTE,FORMATTED_ENTRY,UNITS,DEPTH,Target,Date,Time
+233240,2/4/13 10:27,WS-LP-021,,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2.14,ng/L,,FRBY,2/4/2013,10:27:00
+556579,4/22/19 10:22,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3,ng/L,,FRBY,4/22/2019,10:22:00
+558288,4/30/19 11:35,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,4,ng/L,,FRBY,4/30/2019,11:35:00
+562497,5/7/19 10:01,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,5,ng/L,,FRBY,5/7/2019,10:01:00
+564659,5/21/19 8:26,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,4,ng/L,,FRBY,5/21/2019,8:26:00
+569410,6/4/19 8:03,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,4,ng/L,,FRBY,6/4/2019,8:03:00
+560521,6/18/19 8:15,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2,ng/L,,FRBY,6/18/2019,8:15:00
+573194,6/25/19 7:35,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,1,ng/L,,FRBY,6/25/2019,7:35:00
+568996,7/2/19 8:44,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2,ng/L,,FRBY,7/2/2019,8:44:00
+568998,7/9/19 6:55,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2,ng/L,,FRBY,7/9/2019,6:55:00
+569000,7/16/19 8:14,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2,ng/L,,FRBY,7/16/2019,8:14:00
+582568,7/26/19 8:15,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3,ng/L,,FRBY,7/26/2019,8:15:00
+569004,7/30/19 7:25,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3,ng/L,,FRBY,7/30/2019,7:25:00
+586660,8/1/19 9:20,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3,ng/L,,FRBY,8/1/2019,9:20:00
+591110,8/16/19 8:50,WS-LP-021,,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3.2,ng/L,,FRBY,8/16/2019,8:50:00
+593248,8/22/19 8:44,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3.12,ng/L,,FRBY,8/22/2019,8:44:00
+586126,9/3/19 8:00,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,1.6,ng/L,,FRBY,9/3/2019,8:00:00
+586128,9/10/19 7:20,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,4.8,ng/L,,FRBY,9/10/2019,7:20:00
+586130,9/17/19 6:50,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,4,ng/L,,FRBY,9/17/2019,6:50:00
+586134,10/2/19 9:46,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3.3,ng/L,,FRBY,10/2/2019,9:46:00
+598632,10/8/19 8:42,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,8.4,ng/L,,FRBY,10/8/2019,8:42:00
+614846,10/15/19 10:15,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,18,ng/L,,FRBY,10/15/2019,10:15:00
+684744,5/19/20 8:00,WS-LP-021,,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2,ng/L,,FRBY,5/19/2020,8:00:00
+684746,5/26/20 9:22,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3,ng/L,,FRBY,5/26/2020,9:22:00
+696899,6/1/20 14:13,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2,ng/L,,FRBY,6/1/2020,14:13:00
+784243,9/24/20 8:23,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2,ng/L,,FRBY,9/24/2020,8:23:00
+769492,9/29/20 8:33,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3,ng/L,,FRBY,9/29/2020,8:33:00
+784292,10/2/20 7:55,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3,ng/L,,FRBY,10/2/2020,7:55:00
+771796,10/6/20 8:09,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3,ng/L,,FRBY,10/6/2020,8:09:00
+771797,10/13/20 8:30,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,4,ng/L,,FRBY,10/13/2020,8:30:00
+801039,10/16/20 8:58,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,4,ng/L,,FRBY,10/16/2020,8:58:00
+771798,10/20/20 7:39,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2,ng/L,,FRBY,10/20/2020,7:39:00
+804907,10/23/20 8:22,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2,ng/L,,FRBY,10/23/2020,8:22:00
+771799,10/27/20 7:45,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2,ng/L,,FRBY,10/27/2020,7:45:00
+789306,11/10/20 8:46,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2,ng/L,,FRBY,11/10/2020,8:46:00
+789308,11/24/20 9:33,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,4.7,ng/L,,FRBY,11/24/2020,9:33:00
+789309,12/1/20 8:07,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3,ng/L,,FRBY,12/1/2020,8:07:00
+809624,12/15/20 7:41,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3.2,ng/L,,FRBY,12/15/2020,7:41:00
+809625,12/22/20 7:40,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3.9,ng/L,,FRBY,12/22/2020,7:40:00
+825583,1/12/21 8:20,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2,ng/L,,FRBY,1/12/2021,8:20:00
+825585,1/26/21 7:15,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,6,ng/L,,FRBY,1/26/2021,7:15:00
+854390,1/29/21 8:00,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,5,ng/L,,FRBY,1/29/2021,8:00:00
+841400,2/2/21 7:21,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,4,ng/L,,FRBY,2/2/2021,7:21:00
+841401,2/9/21 7:32,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,4,ng/L,,FRBY,2/9/2021,7:32:00
+841403,2/23/21 7:35,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3,ng/L,,FRBY,2/23/2021,7:35:00
+856905,3/9/21 7:29,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3,ng/L,,FRBY,3/9/2021,7:29:00
+856907,3/23/21 11:13,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2,ng/L,,FRBY,3/23/2021,11:13:00
+856908,3/30/21 8:16,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3,ng/L,,FRBY,3/30/2021,8:16:00
+889769,5/25/21 7:57,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2,ng/L,,FRBY,5/25/2021,7:57:00
+925569,6/1/21 9:58,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3,ng/L,,FRBY,6/1/2021,9:58:00
+906458,6/15/21 7:50,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2,ng/L,,FRBY,6/15/2021,7:50:00
+951345,7/15/21 8:58,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2,ng/L,,FRBY,7/15/2021,8:58:00
+925073,7/27/21 7:59,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2,ng/L,,FRBY,7/27/2021,7:59:00
+966619,8/6/21 8:22,WS-LP-021,,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2,ng/L,,FRBY,8/6/2021,8:22:00
+973923,8/20/21 8:36,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3,ng/L,,FRBY,8/20/2021,8:36:00
+962483,9/14/21 8:10,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2,ng/L,,FRBY,9/14/2021,8:10:00
+962485,9/28/21 8:00,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2,ng/L,,FRBY,9/28/2021,8:00:00
+1025834,11/18/21 8:15,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2,ng/L,,FRBY,11/18/2021,8:15:00
+1029275,11/26/21 7:38,WS-LP-021-A,Sampled at outfall,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2,ng/L,,FRBY,11/26/2021,7:38:00
+1016349,12/7/21 7:13,WS-LP-021-A,Sampled at outfall,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2,ng/L,,FRBY,12/7/2021,7:13:00
+1036690,12/9/21 8:12,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2,ng/L,,FRBY,12/9/2021,8:12:00
+1016350,12/14/21 8:05,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,4,ng/L,,FRBY,12/14/2021,8:05:00
+1032386,1/4/22 8:07,WS-LP-021-A,Outflow waterfall,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2,ng/L,,FRBY,1/4/2022,8:07:00
+1052336,1/13/22 14:10,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2,ng/L,,FRBY,1/13/2022,14:10:00
+1054189,1/20/22 8:36,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2,ng/L,,FRBY,1/20/2022,8:36:00
+1055975,1/27/22 8:40,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2,ng/L,,FRBY,1/27/2022,8:40:00
+1032390,2/1/22 8:10,WS-LP-021-A,,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3,ng/L,,FRBY,2/1/2022,8:10:00
+1059947,2/3/22 8:20,WS-LP-021-A,,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2,ng/L,,FRBY,2/3/2022,8:20:00
+1046332,2/8/22 8:04,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3,ng/L,,FRBY,2/8/2022,8:04:00
+1065888,2/10/22 7:50,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3,ng/L,,FRBY,2/10/2022,7:50:00
+1046333,2/15/22 9:24,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3,ng/L,,FRBY,2/15/2022,9:24:00
+1068135,2/17/22 10:27,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3,ng/L,,FRBY,2/17/2022,10:27:00
+1046334,2/22/22 8:48,WS-LP-021-A,,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3,ng/L,,FRBY,2/22/2022,8:48:00
+1070575,2/24/22 9:32,WS-LP-021-A,,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3,ng/L,,FRBY,2/24/2022,9:32:00
+1046335,3/1/22 8:51,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3,ng/L,,FRBY,3/1/2022,8:51:00
+1076366,3/3/22 8:57,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2,ng/L,,FRBY,3/3/2022,8:57:00
+1058902,3/8/22 8:27,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3,ng/L,,FRBY,3/8/2022,8:27:00
+1078767,3/10/22 9:30,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3,ng/L,,FRBY,3/10/2022,9:30:00
+1058903,3/15/22 9:15,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,5,ng/L,,FRBY,3/15/2022,9:15:00
+1081416,3/17/22 9:00,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,5,ng/L,,FRBY,3/17/2022,9:00:00
+1058904,3/22/22 8:48,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,5,ng/L,,FRBY,3/22/2022,8:48:00
+1084448,3/24/22 13:48,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,5,ng/L,,FRBY,3/24/2022,13:48:00
+1058905,3/29/22 8:45,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,4,ng/L,,FRBY,3/29/2022,8:45:00
+1086506,3/31/22 7:59,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,5,ng/L,,FRBY,3/31/2022,7:59:00
+1091178,4/7/22 8:37,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,6,ng/L,,FRBY,4/7/2022,8:37:00
+1074234,4/12/22 8:12,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,6,ng/L,,FRBY,4/12/2022,8:12:00
+1074235,4/18/22 10:20,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,8,ng/L,,FRBY,4/18/2022,10:20:00
+1074236,4/26/22 7:55,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,7.7,ng/L,,FRBY,4/26/2022,7:55:00
+1088828,5/3/22 11:28,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,6,ng/L,,FRBY,5/3/2022,11:28:00
+1106474,5/5/22 14:38,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,6,ng/L,,FRBY,5/5/2022,14:38:00
+1088829,5/10/22 11:24,WS-LP-021-A,,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2,ng/L,,FRBY,5/10/2022,11:24:00
+1088830,5/17/22 9:04,WS-LP-021-A,,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,6,ng/L,,FRBY,5/17/2022,9:04:00
+1111693,5/19/22 9:35,WS-LP-021-4,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,7,ng/L,,FRBY,5/19/2022,9:35:00
+1088831,5/24/22 9:06,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,6,ng/L,,FRBY,5/24/2022,9:06:00
+1114356,5/26/22 15:15,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,6,ng/L,,FRBY,5/26/2022,15:15:00
+1088832,5/31/22 8:35,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,6,ng/L,,FRBY,5/31/2022,8:35:00
+1119249,6/2/22 10:24,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,5,ng/L,,FRBY,6/2/2022,10:24:00
+1104126,6/7/22 9:18,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,4,ng/L,,FRBY,6/7/2022,9:18:00
+1104127,6/14/22 8:48,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3,ng/L,,FRBY,6/14/2022,8:48:00
+1104128,6/21/22 10:15,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2,ng/L,,FRBY,6/21/2022,10:15:00

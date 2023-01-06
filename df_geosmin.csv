@@ -1,0 +1,638 @@
+SAMPLE_NUMBER,SAMPLED_DATE,SAMPLE_NAME,SAMPLING_POINT_DESCRIPTION,SITE,FACILITY,ANALYTE,FORMATTED_ENTRY,UNITS,DEPTH
+233240,2/4/2013 10:27,WS-LP-021,,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2.14,ng/L,
+556579,4/22/2019 10:22,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3.0,ng/L,
+558288,4/30/2019 11:35,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,4.0,ng/L,
+562497,5/7/2019 10:01,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,5.0,ng/L,
+564659,5/21/2019 8:26,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,4.0,ng/L,
+569410,6/4/2019 8:03,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,4.0,ng/L,
+560521,6/18/2019 8:15,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2.0,ng/L,
+573194,6/25/2019 7:35,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,1.0,ng/L,
+568996,7/2/2019 8:44,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2.0,ng/L,
+568998,7/9/2019 6:55,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2.0,ng/L,
+569000,7/16/2019 8:14,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2.0,ng/L,
+582568,7/26/2019 8:15,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3.0,ng/L,
+569004,7/30/2019 7:25,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3.0,ng/L,
+586660,8/1/2019 9:20,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3.0,ng/L,
+591110,8/16/2019 8:50,WS-LP-021,,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3.2,ng/L,
+593248,8/22/2019 8:44,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3.12,ng/L,
+586126,9/3/2019 8:00,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,1.6,ng/L,
+586128,9/10/2019 7:20,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,4.8,ng/L,
+586130,9/17/2019 6:50,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,4.0,ng/L,
+586134,10/2/2019 9:46,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3.3,ng/L,
+598632,10/8/2019 8:42,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,8.4,ng/L,
+614846,10/15/2019 10:15,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,18.0,ng/L,
+684744,5/19/2020 8:00,WS-LP-021,,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2.0,ng/L,
+684746,5/26/2020 9:22,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3.0,ng/L,
+696899,6/1/2020 14:13,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2.0,ng/L,
+784243,9/24/2020 8:23,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2.0,ng/L,
+769492,9/29/2020 8:33,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3.0,ng/L,
+784292,10/2/2020 7:55,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3.0,ng/L,
+771796,10/6/2020 8:09,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3.0,ng/L,
+771797,10/13/2020 8:30,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,4.0,ng/L,
+801039,10/16/2020 8:58,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,4.0,ng/L,
+771798,10/20/2020 7:39,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2.0,ng/L,
+804907,10/23/2020 8:22,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2.0,ng/L,
+771799,10/27/2020 7:45,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2.0,ng/L,
+789306,11/10/2020 8:46,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2.0,ng/L,
+789308,11/24/2020 9:33,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,4.7,ng/L,
+789309,12/1/2020 8:07,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3.0,ng/L,
+809624,12/15/2020 7:41,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3.2,ng/L,
+809625,12/22/2020 7:40,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3.9,ng/L,
+825583,1/12/2021 8:20,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2.0,ng/L,
+825585,1/26/2021 7:15,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,6.0,ng/L,
+854390,1/29/2021 8:00,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,5.0,ng/L,
+841400,2/2/2021 7:21,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,4.0,ng/L,
+841401,2/9/2021 7:32,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,4.0,ng/L,
+841403,2/23/2021 7:35,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3.0,ng/L,
+856905,3/9/2021 7:29,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3.0,ng/L,
+856907,3/23/2021 11:13,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2.0,ng/L,
+856908,3/30/2021 8:16,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3.0,ng/L,
+889769,5/25/2021 7:57,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2.0,ng/L,
+925569,6/1/2021 9:58,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3.0,ng/L,
+906458,6/15/2021 7:50,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2.0,ng/L,
+951345,7/15/2021 8:58,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2.0,ng/L,
+925073,7/27/2021 7:59,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2.0,ng/L,
+966619,8/6/2021 8:22,WS-LP-021,,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2.0,ng/L,
+973923,8/20/2021 8:36,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3.0,ng/L,
+962483,9/14/2021 8:10,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2.0,ng/L,
+962485,9/28/2021 8:00,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2.0,ng/L,
+1025834,11/18/2021 8:15,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2.0,ng/L,
+1029275,11/26/2021 7:38,WS-LP-021-A,Sampled at outfall,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2.0,ng/L,
+1016349,12/7/2021 7:13,WS-LP-021-A,Sampled at outfall,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2.0,ng/L,
+1036690,12/9/2021 8:12,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2.0,ng/L,
+1016350,12/14/2021 8:05,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,4.0,ng/L,
+1032386,1/4/2022 8:07,WS-LP-021-A,Outflow waterfall,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2.0,ng/L,
+1052336,1/13/2022 14:10,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2.0,ng/L,
+1054189,1/20/2022 8:36,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2.0,ng/L,
+1055975,1/27/2022 8:40,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2.0,ng/L,
+1032390,2/1/2022 8:10,WS-LP-021-A,,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3.0,ng/L,
+1059947,2/3/2022 8:20,WS-LP-021-A,,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2.0,ng/L,
+1046332,2/8/2022 8:04,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3.0,ng/L,
+1065888,2/10/2022 7:50,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3.0,ng/L,
+1046333,2/15/2022 9:24,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3.0,ng/L,
+1068135,2/17/2022 10:27,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3.0,ng/L,
+1046334,2/22/2022 8:48,WS-LP-021-A,,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3.0,ng/L,
+1070575,2/24/2022 9:32,WS-LP-021-A,,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3.0,ng/L,
+1046335,3/1/2022 8:51,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3.0,ng/L,
+1076366,3/3/2022 8:57,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2.0,ng/L,
+1058902,3/8/2022 8:27,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3.0,ng/L,
+1078767,3/10/2022 9:30,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3.0,ng/L,
+1058903,3/15/2022 9:15,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,5.0,ng/L,
+1081416,3/17/2022 9:00,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,5.0,ng/L,
+1058904,3/22/2022 8:48,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,5.0,ng/L,
+1084448,3/24/2022 13:48,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,5.0,ng/L,
+1058905,3/29/2022 8:45,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,4.0,ng/L,
+1086506,3/31/2022 7:59,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,5.0,ng/L,
+1091178,4/7/2022 8:37,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,6.0,ng/L,
+1074234,4/12/2022 8:12,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,6.0,ng/L,
+1074235,4/18/2022 10:20,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,8.0,ng/L,
+1074236,4/26/2022 7:55,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,7.7,ng/L,
+1088828,5/3/2022 11:28,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,6.0,ng/L,
+1106474,5/5/2022 14:38,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,6.0,ng/L,
+1088829,5/10/2022 11:24,WS-LP-021-A,,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2.0,ng/L,
+1088830,5/17/2022 9:04,WS-LP-021-A,,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,6.0,ng/L,
+1111693,5/19/2022 9:35,WS-LP-021-4,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,7.0,ng/L,
+1088831,5/24/2022 9:06,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,6.0,ng/L,
+1114356,5/26/2022 15:15,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,6.0,ng/L,
+1088832,5/31/2022 8:35,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,6.0,ng/L,
+1119249,6/2/2022 10:24,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,5.0,ng/L,
+1104126,6/7/2022 9:18,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,4.0,ng/L,
+1104127,6/14/2022 8:48,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,3.0,ng/L,
+1104128,6/21/2022 10:15,WS-LP-021,Conduit #20 at Marston Forebay Influent,Conduit #20 at Marston Forebay Influent,Marston Forebay,Geosmin,2.0,ng/L,
+221912,7/2/2012 14:40,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,26.69,ng/L,5
+222026,7/10/2012 14:00,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4.64,ng/L,5
+222352,7/18/2012 8:40,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,24.63,ng/L,5
+222470,7/25/2012 8:45,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,62.66,ng/L,5
+222471,7/25/2012 8:50,RS-MR-01-15,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5.07,ng/L,15
+222578,7/30/2012 12:57,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,17.4,ng/L,5
+222579,7/30/2012 13:03,RS-MR-01-15,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3.48,ng/L,15
+223754,8/6/2012 11:36,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5.29,ng/L,5
+223919,8/13/2012 13:15,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5.6,ng/L,5
+224128,8/20/2012 10:55,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4.02,ng/L,5
+225897,9/17/2012 10:57,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,24.35,ng/L,5
+226048,9/24/2012 9:22,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,7.31,ng/L,5
+226049,9/24/2012 9:23,RS-MR-01-15,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5.78,ng/L,15
+227416,10/15/2012 11:12,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,113.4,ng/L,5
+227740,10/22/2012 11:20,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,58.03,ng/L,5
+228893,11/5/2012 11:55,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,80.29,ng/L,5
+229030,11/13/2012 13:35,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,44.0,ng/L,5
+229154,11/19/2012 12:22,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,34.9,ng/L,5
+230300,12/3/2012 11:25,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,26.3,ng/L,5
+230301,12/3/2012 11:30,RS-MR-01-15,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,23.9,ng/L,15
+230630,12/18/2012 11:48,RS-MR-01-15,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,14.72,ng/L,15
+230608,12/18/2012 11:58,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,18.48,ng/L,5
+231868,1/11/2013 10:15,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,11.61,ng/L,5
+231869,1/11/2013 10:17,RS-MR-01-10,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,11.65,ng/L,10
+240892,6/4/2013 10:50,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.74,ng/L,5
+241795,6/25/2013 10:08,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,5
+241794,6/25/2013 10:10,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3.0,ng/L,1
+243091,7/2/2013 10:05,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,1
+244021,7/23/2013 8:35,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,18.51,ng/L,5
+245629,7/29/2013 9:25,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,14.5,ng/L,5
+245700,8/5/2013 10:45,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.21,ng/L,5
+246103,8/12/2013 11:00,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1.0,ng/L,1
+246105,8/12/2013 11:05,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1.0,ng/L,5
+246107,8/12/2013 11:07,RS-MR-01-10,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1.0,ng/L,10
+246797,8/26/2013 10:36,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1.0,ng/L,1
+273219,9/2/2014 9:40,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1.0,ng/L,1
+273221,9/2/2014 9:42,RS-MR-01-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1.0,ng/L,4
+273682,9/9/2014 10:45,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1.0,ng/L,1
+273683,9/9/2014 11:00,RS-MR-01-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1.0,ng/L,4
+274000,9/16/2014 11:01,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3.0,ng/L,1
+274002,9/16/2014 11:02,RS-MR-01-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,31.0,ng/L,4
+274208,9/18/2014 14:20,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,21.0,ng/L,1
+274210,9/18/2014 14:25,RS-MR-01-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4.0,ng/L,4
+274415,9/23/2014 13:30,RS-MR-01-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,18.0,ng/L,4
+275749,10/6/2014 9:15,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,34.0,ng/L,1
+275751,10/6/2014 9:17,RS-MR-01-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,37.0,ng/L,4
+276186,10/13/2014 14:42,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,23.0,ng/L,1
+276188,10/13/2014 14:45,RS-MR-01-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,26.0,ng/L,4
+276668,10/20/2014 15:30,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,15.0,ng/L,1
+276670,10/20/2014 15:35,RS-MR-01-3,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,15.0,ng/L,3
+278013,11/4/2014 11:05,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,8.0,ng/L,1
+309517,7/28/2015 11:40,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,15.0,ng/L,5
+312994,8/11/2015 10:05,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,27.0,ng/L,5
+316872,9/8/2015 10:55,RS-MR-01-12,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5.18,ng/L,12
+316869,9/8/2015 11:50,RS-MR-01-7,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,23.61,ng/L,7
+318730,9/28/2015 13:05,RS-MR-01-3,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,41.25,ng/L,3
+318732,9/28/2015 13:10,RS-MR-01-7,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,12.25,ng/L,7
+318734,9/28/2015 13:15,RS-MR-01-12,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,14.45,ng/L,12
+322603,10/5/2015 11:20,RS-MR-01-3,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,18.0,ng/L,3
+322606,10/5/2015 11:23,RS-MR-01-7,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,18.0,ng/L,7
+322608,10/5/2015 11:25,RS-MR-01-12,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,11.0,ng/L,12
+323089,10/12/2015 13:40,RS-MR-01-3,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,7.0,ng/L,3
+323093,10/12/2015 13:45,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,7.0,ng/L,5
+323096,10/12/2015 13:50,RS-MR-01-15,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,14.0,ng/L,15
+323628,10/20/2015 9:56,RS-MR-01-3,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3.0,ng/L,3
+323631,10/20/2015 9:58,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3.0,ng/L,5
+323635,10/20/2015 10:00,RS-MR-01-15,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5.0,ng/L,15
+324105,10/26/2015 11:35,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3.0,ng/L,1
+324108,10/26/2015 11:45,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4.0,ng/L,5
+326813,11/3/2015 10:45,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5.0,ng/L,1
+326816,11/3/2015 10:50,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1.0,ng/L,5
+360329,7/13/2016 8:45,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,13.0,ng/L,1
+360827,7/19/2016 14:10,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,15.0,ng/L,1
+360835,7/19/2016 14:20,RS-MR-01-7,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,40.0,ng/L,7
+360842,7/19/2016 14:30,RS-MR-01-11,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,11
+360849,7/19/2016 14:40,RS-MR-01-14,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,14
+361398,7/26/2016 8:30,RS-MR-01-7,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,16.0,ng/L,7
+361405,7/26/2016 8:35,RS-MR-01-11,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,11
+361412,7/26/2016 8:40,RS-MR-01-14,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3.0,ng/L,14
+361807,8/2/2016 9:42,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,10.0,ng/L,1
+361815,8/2/2016 9:48,RS-MR-01-7,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,10.0,ng/L,7
+361822,8/2/2016 9:54,RS-MR-01-11,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,8.0,ng/L,11
+361829,8/2/2016 10:00,RS-MR-01-14,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,8.0,ng/L,14
+364765,8/10/2016 10:45,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3.0,ng/L,1
+364773,8/10/2016 10:55,RS-MR-01-7,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5.0,ng/L,7
+364780,8/10/2016 11:00,RS-MR-01-11,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,11.0,ng/L,11
+364787,8/10/2016 11:05,RS-MR-01-14,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,6.0,ng/L,14
+365505,8/15/2016 9:50,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,1
+365513,8/15/2016 10:05,RS-MR-01-7,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3.0,ng/L,7
+365520,8/15/2016 10:10,RS-MR-01-11,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,8.0,ng/L,11
+365527,8/15/2016 10:17,RS-MR-01-14,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,8.0,ng/L,14
+366462,8/24/2016 11:15,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,1
+366470,8/24/2016 11:20,RS-MR-01-7,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,7
+366477,8/24/2016 11:25,RS-MR-01-11,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4.0,ng/L,11
+366484,8/24/2016 11:30,RS-MR-01-14,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4.0,ng/L,14
+367411,8/30/2016 10:00,RS-MR-01-7,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,7
+367419,8/30/2016 10:05,RS-MR-01-11,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,11
+367427,8/30/2016 10:10,RS-MR-01-14,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,14
+371049,9/6/2016 9:05,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,7.0,ng/L,1
+371057,9/6/2016 9:10,RS-MR-01-7,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4.0,ng/L,7
+371064,9/6/2016 9:15,RS-MR-01-11,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1.0,ng/L,11
+371071,9/6/2016 9:20,RS-MR-01-14,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1.0,ng/L,14
+372049,9/12/2016 11:40,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,14.0,ng/L,1
+372064,9/12/2016 11:50,RS-MR-01-11,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,11
+372071,9/12/2016 11:55,RS-MR-01-14,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,14
+373317,9/21/2016 8:35,RS-MR-01-7,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,15.0,ng/L,7
+373324,9/21/2016 8:40,RS-MR-01-11,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4.0,ng/L,11
+373331,9/21/2016 8:45,RS-MR-01-14,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3.0,ng/L,14
+373953,9/26/2016 14:00,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,31.0,ng/L,1
+373962,9/26/2016 14:05,RS-MR-01-7,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,25.0,ng/L,7
+373970,9/26/2016 14:15,RS-MR-01-11,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,8.0,ng/L,11
+373977,9/26/2016 14:20,RS-MR-01-14,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,7.0,ng/L,14
+422542,6/5/2017 14:30,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1.0,ng/L,1
+422551,6/5/2017 14:35,RS-MR-01-4,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,4
+422558,6/5/2017 14:40,RS-MR-01-8,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,8
+422565,6/5/2017 14:45,RS-MR-01-16,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3.0,ng/L,16
+423380,6/19/2017 1:50,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,1
+423394,6/19/2017 2:00,RS-MR-01-8,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,8
+423401,6/19/2017 2:10,RS-MR-01-16,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,16
+429257,7/11/2017 13:45,RS-MR-01-A-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1.0,ng/L,A
+429260,7/11/2017 13:50,RS-MR-01-A-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1.0,ng/L,A
+429263,7/11/2017 13:55,RS-MR-01-A-7,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3.0,ng/L,A
+429266,7/11/2017 14:00,RS-MR-01-A-10,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,A
+429699,7/17/2017 13:30,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4.0,ng/L,1
+429708,7/17/2017 13:35,RS-MR-01-4,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5.0,ng/L,4
+429715,7/17/2017 13:40,RS-MR-01-7,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,6.0,ng/L,7
+429723,7/17/2017 13:45,RS-MR-01-16,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3.0,ng/L,16
+430829,7/31/2017 10:45,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5.0,ng/L,1
+430837,7/31/2017 10:50,RS-MR-01-4,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5.0,ng/L,4
+430844,7/31/2017 10:55,RS-MR-01-8,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5.0,ng/L,8
+430851,7/31/2017 11:00,RS-MR-01-16,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3.0,ng/L,16
+434367,8/14/2017 13:35,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4.48,ng/L,1
+434374,8/14/2017 13:40,RS-MR-01-4,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,11.57,ng/L,4
+434381,8/14/2017 13:45,RS-MR-01-8,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4.87,ng/L,8
+434388,8/14/2017 13:50,RS-MR-01-16,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1.41,ng/L,16
+440617,9/18/2017 14:20,RS-MR-01-A-8,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1.0,ng/L,A
+441483,9/22/2017 11:30,RS-MR-01-A-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,A
+441486,9/22/2017 11:32,RS-MR-01-A-8,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1.0,ng/L,A
+448348,10/25/2017 8:35,RS-MR-01-A-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,A
+448353,10/25/2017 8:45,RS-MR-01-A-12,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,A
+473512,3/29/2018 15:25,RS-MR-01-A-1,Immediately south of Marston intake tower,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,A
+473863,3/29/2018 15:30,RS-MR-01-A-8,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,A
+489459,6/13/2018 14:40,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1.0,ng/L,1
+489469,6/13/2018 15:04,RS-MR-01-8,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,8
+489476,6/13/2018 15:17,RS-MR-01-16,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,16
+492793,6/27/2018 14:25,RS-MR-01-8,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1.0,ng/L,8
+497734,7/25/2018 14:40,RS-MR-01-17,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,6.0,ng/L,17
+498886,7/31/2018 14:40,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,38.0,ng/L,1
+498898,7/31/2018 14:55,RS-MR-01-8,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,37.0,ng/L,8
+498904,7/31/2018 15:10,RS-MR-01-16,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4.0,ng/L,16
+502032,8/8/2018 14:25,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,13.0,ng/L,1
+502039,8/8/2018 14:35,RS-MR-01-8,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,12.0,ng/L,8
+502042,8/8/2018 14:40,RS-MR-01-17,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3.0,ng/L,17
+502050,8/15/2018 14:25,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,13.0,ng/L,1
+502062,8/15/2018 14:45,RS-MR-01-8,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,7.0,ng/L,8
+502074,8/15/2018 14:55,RS-MR-01-17,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,17
+502996,8/22/2018 14:45,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,10.0,ng/L,1
+503000,8/22/2018 14:50,RS-MR-01-8,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,9.0,ng/L,8
+503002,8/22/2018 15:00,RS-MR-01-17,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1.0,ng/L,17
+503006,8/29/2018 14:38,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,15.0,ng/L,1
+503011,8/29/2018 14:50,RS-MR-01-8,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,10.0,ng/L,8
+503013,8/29/2018 15:00,RS-MR-01-18,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,7.0,ng/L,18
+507619,9/5/2018 9:12,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,23.0,ng/L,1
+507623,9/5/2018 9:20,RS-MR-01-9,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,16.0,ng/L,9
+507626,9/5/2018 9:40,RS-MR-01-18,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4.0,ng/L,18
+508876,9/12/2018 9:20,RS-MR-01-A-14,Marston Tower,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,18.0,ng/L,A
+508879,9/12/2018 9:22,RS-MR-01-A-4,Marston Tower,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,29.0,ng/L,A
+508883,9/12/2018 9:24,RS-MR-01-A-8,Marston Tower,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,27.0,ng/L,A
+509287,9/19/2018 13:55,RS-MR-01-A-1,Tower,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,18.0,ng/L,A
+509295,9/19/2018 14:20,RS-MR-01-A-6,Tower,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,25.0,ng/L,A
+509303,9/19/2018 14:30,RS-MR-01-A-12,Tower,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3.0,ng/L,A
+509671,9/25/2018 8:27,RS-MR-01-A-1,Tower,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,12.0,ng/L,A
+509675,9/25/2018 8:34,RS-MR-01-A-6,Tower,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,12.0,ng/L,A
+509677,9/25/2018 8:45,RS-MR-01-A-12,Tower,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,11.0,ng/L,A
+514169,10/9/2018 10:10,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,6.0,ng/L,1
+514172,10/9/2018 10:15,RS-MR-01-9,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,6.0,ng/L,9
+514174,10/9/2018 10:25,RS-MR-01-18,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5.0,ng/L,18
+515652,10/17/2018 14:40,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4.0,ng/L,1
+515663,10/17/2018 14:55,RS-MR-01-9,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,6.0,ng/L,9
+515670,10/17/2018 15:00,RS-MR-01-18,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4.0,ng/L,18
+517995,10/23/2018 13:37,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,6.0,ng/L,1
+517999,10/23/2018 13:43,RS-MR-01-9,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4.0,ng/L,9
+518001,10/23/2018 13:53,RS-MR-01-18,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4.0,ng/L,18
+518707,10/30/2018 9:15,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3.0,ng/L,1
+518710,10/30/2018 9:20,RS-MR-01-9,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3.0,ng/L,9
+518712,10/30/2018 9:30,RS-MR-01-18,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4.0,ng/L,18
+519071,11/7/2018 14:05,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4.0,ng/L,1
+519076,11/7/2018 14:15,RS-MR-01-9,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5.0,ng/L,9
+519078,11/7/2018 14:25,RS-MR-01-18,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4.0,ng/L,18
+521768,11/14/2018 13:26,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,49.0,ng/L,1
+521772,11/14/2018 13:42,RS-MR-01-9,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,6.0,ng/L,9
+521779,11/14/2018 13:51,RS-MR-01-18,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5.0,ng/L,18
+527660,12/17/2018 14:10,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3.8,ng/L,1
+527671,12/17/2018 14:25,RS-MR-01-8,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4.2,ng/L,8
+527678,12/17/2018 14:38,RS-MR-01-17,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3.4,ng/L,17
+533413,1/8/2019 14:10,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,1
+533415,1/8/2019 14:12,RS-MR-01-4,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3.0,ng/L,4
+533417,1/8/2019 14:14,RS-MR-01-10,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3.0,ng/L,10
+557174,4/23/2019 13:30,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,1
+557177,4/23/2019 13:45,RS-MR-01-5,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,5
+557187,4/23/2019 14:05,RS-MR-01-16,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,16
+564111,5/14/2019 9:50,RS-MR-01-T,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,T
+564113,5/14/2019 10:15,RS-MR-01-B,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,B
+564112,5/14/2019 10:15,RS-MR-01-I,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,I
+572956,6/24/2019 14:18,RS-MR-01-T-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,T
+572955,6/24/2019 14:30,RS-MR-01-I-9,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,I
+572954,6/24/2019 14:42,RS-MR-01-B-18,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,B
+568921,7/2/2019 9:15,RS-MR-01-T-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,T
+568944,7/2/2019 9:37,RS-MR-01-I-7,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,I
+568963,7/2/2019 9:50,RS-MR-01-B-18,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,B
+568932,7/16/2019 9:43,RS-MR-01-T-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,T
+568953,7/16/2019 10:03,RS-MR-01-I-7,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,I
+568972,7/16/2019 10:10,RS-MR-01-B-18,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,B
+582229,7/24/2019 11:35,RS-MR-01-A-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,10.0,ng/L,A
+582231,7/24/2019 11:45,RS-MR-01-A-8,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,A
+582233,7/24/2019 11:45,RS-MR-01-A-12,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3.0,ng/L,A
+586957,8/1/2019 9:08,RS-MR-01-A-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,26.0,ng/L,A
+586959,8/1/2019 9:10,RS-MR-01-A-8,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,7.0,ng/L,A
+586963,8/1/2019 9:15,RS-MR-01-A-12,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5.0,ng/L,A
+576308,8/20/2019 10:10,RS-MR-01-I-6,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,7.9,ng/L,I
+593246,8/22/2019 9:02,RS-MR-01-A-8,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.28,ng/L,A
+586042,9/10/2019 11:30,RS-MR-01-T-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,10.0,ng/L,T
+602135,9/10/2019 11:35,RS-MR-01-I-6,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,12.0,ng/L,I
+602987,9/12/2019 16:35,RS-MR-01-A-6,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,7.0,ng/L,A
+602986,9/12/2019 16:35,RS-MR-01-A-6,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,11.0,ng/L,A
+586053,9/24/2019 11:53,RS-MR-01-T-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,16.0,ng/L,T
+586074,9/24/2019 12:10,RS-MR-01-I-6,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,9.0,ng/L,I
+586093,9/24/2019 12:18,RS-MR-01-B-18,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,7.0,ng/L,B
+609687,10/1/2019 8:52,RS-MR-01-A-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,6.69,ng/L,A
+609689,10/1/2019 8:57,RS-MR-01-A-8,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,6.44,ng/L,A
+609691,10/1/2019 9:02,RS-MR-01-A-12,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,7.23,ng/L,A
+615056,10/15/2019 10:30,RS-MR-01-A-8,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,27.0,ng/L,A
+598593,10/15/2019 11:10,RS-MR-01-T-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,56.0,ng/L,T
+598604,10/15/2019 11:20,RS-MR-01-I-8,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,48.0,ng/L,I
+598613,10/15/2019 11:30,RS-MR-01-B-18,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,33.0,ng/L,B
+616274,10/22/2019 12:32,RS-MR-01-A-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,34.0,ng/L,A
+616276,10/22/2019 12:35,RS-MR-01-A-8,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,27.0,ng/L,A
+616278,10/22/2019 12:37,RS-MR-01-A-12,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,32.0,ng/L,A
+643431,1/7/2020 13:09,RS-MR-01-A-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,11.0,ng/L,A
+643448,1/7/2020 13:14,RS-MR-01-A-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,10.0,ng/L,A
+643452,1/7/2020 13:19,RS-MR-01-A-10,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,10.0,ng/L,A
+651774,1/28/2020 13:12,RS-MR-01-A-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,8.0,ng/L,A
+651776,1/28/2020 13:14,RS-MR-01-A-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,7.0,ng/L,A
+651778,1/28/2020 13:15,RS-MR-01-A-10,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,8.0,ng/L,A
+659645,2/12/2020 8:26,RS-MR-01-A-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5.3,ng/L,A
+659647,2/12/2020 8:27,RS-MR-01-A-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,6.3,ng/L,A
+659649,2/12/2020 8:30,RS-MR-01-A-10,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5.9,ng/L,A
+664981,2/25/2020 7:23,RS-MR-01-A-10,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5.0,ng/L,A
+664977,2/25/2020 7:25,RS-MR-01-A-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5.0,ng/L,A
+664973,2/25/2020 7:30,RS-MR-01-A-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5.0,ng/L,A
+669432,3/3/2020 8:25,RS-MR-01-A-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4.0,ng/L,A
+669434,3/3/2020 8:27,RS-MR-01-A-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5.0,ng/L,A
+669436,3/3/2020 8:30,RS-MR-01-A-10,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5.0,ng/L,A
+668272,4/21/2020 9:50,RS-MR-01-T-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,T
+668283,4/21/2020 10:00,RS-MR-01-I-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,I
+668292,4/21/2020 10:10,RS-MR-01-B-11,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.0,ng/L,B
+801385,10/16/2020 8:58,RS-MR-01-I-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,14.0,ng/L,I
+801383,10/16/2020 8:58,RS-MR-01-B-9,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,14.0,ng/L,B
+801381,10/16/2020 8:58,RS-MR-01-T-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,15.0,ng/L,T
+232074,1/17/2013 12:45,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,7.77,ng/L,
+232208,1/28/2013 8:14,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,6.14,ng/L,
+233382,2/12/2013 9:15,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,6.1,ng/L,
+233624,2/20/2013 11:46,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,4.29,ng/L,
+233813,2/26/2013 9:45,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,3.6,ng/L,
+239571,5/28/2013 14:00,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,2.14,ng/L,
+241734,7/2/2013 13:10,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+241735,7/9/2013 13:05,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+241736,7/16/2013 13:35,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+241737,7/23/2013 11:45,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,4.02,ng/L,
+241738,7/30/2013 12:52,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,2.35,ng/L,
+254572,2/25/2014 13:35,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,1.0,ng/L,
+256418,3/4/2014 11:15,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,1.0,ng/L,
+256419,3/11/2014 13:40,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+256420,3/18/2014 13:15,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,1.0,ng/L,
+256421,3/25/2014 10:52,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,1.0,ng/L,
+258124,4/1/2014 11:05,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,1.0,ng/L,
+258126,4/15/2014 13:10,PL-MAR-INF-A,,"Marston raw, 90 inch",Marston WTP,Geosmin,1.0,ng/L,
+258127,4/22/2014 14:07,PL-MAR-INF-A,,"Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+258128,4/29/2014 12:30,PL-MAR-INF-A,,"Marston raw, 90 inch",Marston WTP,Geosmin,1.0,ng/L,
+260191,5/20/2014 9:30,PL-MAR-INF-A,,"Marston raw, 90 inch",Marston WTP,Geosmin,1.0,ng/L,
+260192,5/27/2014 12:14,PL-MAR-INF-A,,"Marston raw, 90 inch",Marston WTP,Geosmin,1.0,ng/L,
+262130,6/3/2014 13:25,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,1.0,ng/L,
+262131,6/10/2014 14:40,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,1.0,ng/L,
+264354,7/15/2014 13:50,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+264355,7/22/2014 13:50,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,1.0,ng/L,
+264356,7/29/2014 13:55,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,1.0,ng/L,
+266726,8/5/2014 13:35,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,1.0,ng/L,
+266727,8/12/2014 14:15,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+269384,9/9/2014 13:15,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+269385,9/16/2014 13:30,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,3.0,ng/L,
+285593,3/10/2015 9:59,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,1.0,ng/L,
+285594,3/17/2015 11:50,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+288313,4/21/2015 13:55,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+288314,4/28/2015 12:09,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+292019,5/5/2015 14:00,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+295960,6/2/2015 11:27,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,1.0,ng/L,
+320199,12/1/2015 10:00,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,4.0,ng/L,
+324754,12/8/2015 7:47,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,4.0,ng/L,
+324755,12/15/2015 11:20,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,1.0,ng/L,
+351379,7/12/2016 13:21,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,4.0,ng/L,
+351380,7/19/2016 14:20,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,14.0,ng/L,
+361264,7/22/2016 11:50,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,37.0,ng/L,
+361339,7/25/2016 7:45,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,46.0,ng/L,
+351381,7/26/2016 9:34,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,15.0,ng/L,
+361652,7/28/2016 7:50,PL-MAR-INF-A,MLOW MID,"Marston raw, 90 inch",Marston WTP,Geosmin,70.0,ng/L,
+361650,7/28/2016 7:55,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,17.0,ng/L,
+364210,8/2/2016 6:54,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+364212,8/2/2016 6:55,PL-MAR-INF-A,MLOW MID,"Marston raw, 90 inch",Marston WTP,Geosmin,7.0,ng/L,
+356713,8/2/2016 13:47,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,1.0,ng/L,
+356714,8/9/2016 13:19,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,1.0,ng/L,
+406341,5/9/2017 14:19,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+414722,6/6/2017 14:23,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+414723,6/13/2017 13:53,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,1.0,ng/L,
+414724,6/20/2017 14:06,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,4.0,ng/L,
+414725,6/27/2017 14:19,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,3.0,ng/L,
+419603,7/5/2017 7:44,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+419604,7/11/2017 14:26,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,3.0,ng/L,
+419605,7/18/2017 14:33,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,5.0,ng/L,
+424607,8/15/2017 11:48,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,1.17,ng/L,
+424608,8/22/2017 15:05,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,1.17,ng/L,
+430970,9/5/2017 14:32,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,1.37,ng/L,
+430973,9/26/2017 13:42,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,1.0,ng/L,
+435989,10/3/2017 13:19,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,1.0,ng/L,
+435990,10/10/2017 13:08,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,1.0,ng/L,
+435993,10/31/2017 14:04,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,4.0,ng/L,
+442718,11/7/2017 14:32,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+442719,11/15/2017 15:24,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+449403,12/5/2017 13:32,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,3.0,ng/L,
+449404,12/12/2017 14:06,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,4.0,ng/L,
+453981,1/9/2018 15:01,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,3.0,ng/L,
+453982,1/16/2018 14:33,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+453983,1/23/2018 15:03,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+480035,6/5/2018 14:13,PL-MAR-INF,"Marston raw, 90 inch","Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+556576,4/22/2019 10:35,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+558284,4/30/2019 11:52,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+564109,5/14/2019 8:59,PL-MAR-INF,,"Marston raw, 90 inch",Marston WTP,Geosmin,1.0,ng/L,
+564658,5/21/2019 7:56,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,1.0,ng/L,
+569411,6/4/2019 8:15,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,1.0,ng/L,
+560513,6/18/2019 8:30,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+573193,6/25/2019 7:45,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+568986,7/2/2019 8:54,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+568988,7/9/2019 7:01,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,1.0,ng/L,
+568990,7/16/2019 8:25,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,1.0,ng/L,
+568992,7/23/2019 8:19,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3.0,ng/L,
+582237,7/24/2019 12:11,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3.0,ng/L,
+568994,7/30/2019 7:10,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+586664,8/1/2019 9:02,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+586120,9/17/2019 6:46,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3.0,ng/L,
+586124,10/1/2019 9:21,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2.16,ng/L,
+598624,10/8/2019 9:00,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,10.0,ng/L,
+598628,10/15/2019 10:00,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,20.0,ng/L,
+616282,10/22/2019 12:20,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,27.0,ng/L,
+675904,3/17/2020 11:52,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+712797,7/28/2020 9:40,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,7.0,ng/L,
+784239,9/24/2020 8:04,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,7.0,ng/L,
+769487,9/29/2020 8:19,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,13.0,ng/L,
+795579,10/9/2020 8:59,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,7.0,ng/L,
+771771,10/13/2020 8:30,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,6.0,ng/L,
+801031,10/16/2020 8:57,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,5.0,ng/L,
+771773,10/20/2020 8:57,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,6.0,ng/L,
+804903,10/23/2020 8:01,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,6.0,ng/L,
+906435,6/29/2021 7:39,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,6.0,ng/L,
+959782,7/30/2021 7:04,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+942276,8/3/2021 8:32,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3.0,ng/L,
+976112,8/27/2021 8:41,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3.0,ng/L,
+942284,8/30/2021 8:30,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,8.0,ng/L,
+981431,10/5/2021 8:34,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,4.0,ng/L,
+1003299,10/8/2021 8:23,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3.0,ng/L,
+981433,10/12/2021 7:44,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,4.0,ng/L,
+1003982,10/14/2021 8:16,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,5.0,ng/L,
+1033575,12/2/2021 7:48,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+1036688,12/9/2021 8:12,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3.0,ng/L,
+1016327,12/14/2021 8:07,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,4.0,ng/L,
+1039257,12/16/2021 11:50,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3.0,ng/L,
+1016329,12/21/2021 8:35,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3.0,ng/L,
+1016331,12/28/2021 7:45,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,4.0,ng/L,
+1044217,12/30/2021 7:55,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3.0,ng/L,
+1032356,1/4/2022 8:38,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3.0,ng/L,
+1049796,1/6/2022 7:27,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3.0,ng/L,
+1032358,1/11/2022 8:24,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3.0,ng/L,
+1052259,1/13/2022 9:22,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3.0,ng/L,
+1032360,1/18/2022 8:47,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3.0,ng/L,
+1054187,1/20/2022 8:25,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3.0,ng/L,
+1032362,1/25/2022 8:46,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,5.0,ng/L,
+1055973,1/27/2022 8:49,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,4.0,ng/L,
+1032364,2/1/2022 7:55,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,5.0,ng/L,
+1059943,2/3/2022 8:40,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,4.0,ng/L,
+1046308,2/8/2022 8:54,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,5.0,ng/L,
+1065890,2/10/2022 8:09,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,5.0,ng/L,
+1046310,2/15/2022 10:16,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3.0,ng/L,
+1068128,2/17/2022 10:59,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3.0,ng/L,
+1046312,2/22/2022 9:35,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3.0,ng/L,
+1070568,2/24/2022 9:47,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3.0,ng/L,
+1046314,3/1/2022 9:01,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3.0,ng/L,
+1076362,3/3/2022 9:34,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3.0,ng/L,
+1058878,3/8/2022 9:32,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+1078771,3/10/2022 9:35,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3.0,ng/L,
+1058880,3/15/2022 10:12,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3.0,ng/L,
+1081410,3/17/2022 9:20,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3.0,ng/L,
+1058882,3/22/2022 9:30,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3.0,ng/L,
+1084427,3/24/2022 13:42,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3.0,ng/L,
+1058884,3/29/2022 9:07,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+1086501,3/31/2022 8:22,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+1091174,4/7/2022 9:00,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+1074210,4/18/2022 10:41,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+1088791,5/10/2022 9:06,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+1111691,5/19/2022 10:10,PL-MAR-INF-4,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+1114354,5/26/2022 15:30,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+1119244,6/2/2022 9:10,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,2.0,ng/L,
+1104099,6/7/2022 10:09,PL-MAR-INF,"Marston raw, 90 inch. Effective 7/1/2018 site used for plant process control sampling rather than compliance sampling. New compliance site is PL-MAR-INF2.","Marston raw, 90 inch",Marston WTP,Geosmin,3.0,ng/L,
+712837,7/28/2020 9:41,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,8.0,ng/L,MLOWM
+743919,7/31/2020 7:59,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,29.0,ng/L,MLOWM
+730213,8/4/2020 8:14,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,19.0,ng/L,MLOWM
+749245,8/7/2020 8:14,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,37.0,ng/L,MLOWM
+730214,8/11/2020 8:03,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,12.0,ng/L,MLOWM
+760675,8/14/2020 10:05,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,12.0,ng/L,MLOWM
+730215,8/18/2020 8:25,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,5.0,ng/L,MLOWM
+762935,8/21/2020 8:06,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,9.0,ng/L,MLOWM
+730216,8/25/2020 7:51,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,3.52,ng/L,MLOWM
+746491,9/1/2020 7:37,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,5.4,ng/L,MLOWM
+746492,9/8/2020 8:46,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,5.2,ng/L,MLOWM
+746493,9/15/2020 8:30,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,7.0,ng/L,MLOWM
+781744,9/18/2020 8:10,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,21.0,ng/L,MLOWM
+746494,9/22/2020 8:05,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,18.0,ng/L,MLOWM
+784241,9/24/2020 8:07,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,21.0,ng/L,MLOWM
+769489,9/29/2020 8:22,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,7.0,ng/L,MLOWM
+784290,10/2/2020 8:07,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,9.0,ng/L,MLOWM
+771800,10/6/2020 7:46,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,19.0,ng/L,MLOWM
+795577,10/9/2020 8:59,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,16.0,ng/L,MLOWM
+771801,10/13/2020 8:29,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,17.0,ng/L,MLOWM
+771802,10/20/2020 8:56,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,15.0,ng/L,MLOWM
+804905,10/23/2020 8:03,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,8.0,ng/L,MLOWM
+771803,10/27/2020 7:30,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,8.0,ng/L,MLOWM
+789311,11/10/2020 8:32,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,4.0,ng/L,MLOWM
+789312,11/17/2020 8:13,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,14.0,ng/L,MLOWM
+789313,11/24/2020 9:33,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,3.4,ng/L,MLOWM
+789314,12/1/2020 8:07,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,3.0,ng/L,MLOWM
+906463,6/29/2021 7:37,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,6.0,ng/L,MLOWM
+943346,7/2/2021 8:03,PL-MAR-MLOWM-A-5,,Marston WTP MLOW Mid,Marston WTP,Geosmin,27.0,ng/L,MLOWM
+925074,7/6/2021 7:25,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,25.0,ng/L,MLOWM
+948735,7/8/2021 9:00,PL-MAR-MLOWM-A,,Marston WTP MLOW Mid,Marston WTP,Geosmin,7.0,ng/L,MLOWM
+925075,7/13/2021 9:17,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,8.0,ng/L,MLOWM
+951349,7/15/2021 8:59,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,5.0,ng/L,MLOWM
+925076,7/20/2021 8:10,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,6.1,ng/L,MLOWM
+954531,7/23/2021 8:15,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,3.0,ng/L,MLOWM
+925077,7/27/2021 8:10,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,4.0,ng/L,MLOWM
+959784,7/30/2021 7:04,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,4.0,ng/L,MLOWM
+942316,8/3/2021 7:35,PL-MAR-MLOWM-A-9,,Marston WTP MLOW Mid,Marston WTP,Geosmin,16.0,ng/L,MLOWM
+966617,8/6/2021 8:23,PL-MAR-MLOWM-A,,Marston WTP MLOW Mid,Marston WTP,Geosmin,12.0,ng/L,MLOWM
+942317,8/10/2021 7:55,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,10.0,ng/L,MLOWM
+970376,8/13/2021 8:35,PL-MAR-MLOWM-A,,Marston WTP MLOW Mid,Marston WTP,Geosmin,38.0,ng/L,MLOWM
+942318,8/17/2021 8:10,PL-MAR-MLOWM-A-4,Collected at Tower,Marston WTP MLOW Mid,Marston WTP,Geosmin,11.0,ng/L,MLOWM
+973921,8/20/2021 8:44,PL-MAR-MLOWM-A-4,,Marston WTP MLOW Mid,Marston WTP,Geosmin,12.0,ng/L,MLOWM
+942319,8/24/2021 7:55,PL-MAR-MLOWM-A-7,,Marston WTP MLOW Mid,Marston WTP,Geosmin,6.0,ng/L,MLOWM
+976116,8/27/2021 8:26,PL-MAR-MLOWM-A-7,,Marston WTP MLOW Mid,Marston WTP,Geosmin,7.0,ng/L,MLOWM
+942320,8/30/2021 8:17,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,14.0,ng/L,MLOWM
+983365,9/3/2021 7:50,PL-MAR-MLOWM-A-7,,Marston WTP MLOW Mid,Marston WTP,Geosmin,12.0,ng/L,MLOWM
+962486,9/7/2021 7:58,PL-MAR-MLOWM-A-7,,Marston WTP MLOW Mid,Marston WTP,Geosmin,12.0,ng/L,MLOWM
+986876,9/10/2021 8:07,PL-MAR-MLOWM-A,,Marston WTP MLOW Mid,Marston WTP,Geosmin,11.0,ng/L,MLOWM
+962487,9/14/2021 8:20,PL-MAR-MLOWM-A-6,,Marston WTP MLOW Mid,Marston WTP,Geosmin,14.0,ng/L,MLOWM
+988993,9/16/2021 8:15,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,9.0,ng/L,MLOWM
+962488,9/21/2021 7:12,PL-MAR-MLOWM-A-7,,Marston WTP MLOW Mid,Marston WTP,Geosmin,6.0,ng/L,MLOWM
+993215,9/23/2021 8:11,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,5.0,ng/L,MLOWM
+962489,9/28/2021 8:15,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,4.0,ng/L,MLOWM
+981462,10/5/2021 8:03,PL-MAR-MLOWM-A-7,Marston Reservoir Tower,Marston WTP MLOW Mid,Marston WTP,Geosmin,7.0,ng/L,MLOWM
+1003301,10/8/2021 8:02,PL-MAR-MLOWM-A-7,,Marston WTP MLOW Mid,Marston WTP,Geosmin,7.0,ng/L,MLOWM
+981463,10/12/2021 7:15,PL-MAR-MLOWM-A-6,,Marston WTP MLOW Mid,Marston WTP,Geosmin,13.0,ng/L,MLOWM
+1005599,10/14/2021 8:18,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,15.0,ng/L,MLOWM
+981464,10/19/2021 9:56,PL-MAR-MLOWM-A-6,,Marston WTP MLOW Mid,Marston WTP,Geosmin,15.0,ng/L,MLOWM
+1008026,10/21/2021 8:32,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,13.0,ng/L,MLOWM
+981465,10/26/2021 8:10,PL-MAR-MLOWM-A-5,,Marston WTP MLOW Mid,Marston WTP,Geosmin,14.0,ng/L,MLOWM
+1013428,10/28/2021 8:30,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,9.0,ng/L,MLOWM
+1000271,11/2/2021 7:09,PL-MAR-MLOWM-A-6,,Marston WTP MLOW Mid,Marston WTP,Geosmin,14.0,ng/L,MLOWM
+1018844,11/4/2021 7:50,PL-MAR-MLOWM-A,,Marston WTP MLOW Mid,Marston WTP,Geosmin,13.0,ng/L,MLOWM
+1000272,11/9/2021 8:34,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,12.0,ng/L,MLOWM
+1021898,11/12/2021 7:32,PL-MAR-MLOWH-A-3,,Marston WTP MLOW High,Marston WTP,Geosmin,11.0,ng/L,MLOWH
+1021902,11/12/2021 7:34,PL-MAR-MLOWM-A-6,,Marston WTP MLOW Mid,Marston WTP,Geosmin,11.0,ng/L,MLOWM
+1021900,11/12/2021 7:36,PL-MAR-MLOWL-A-11,,Marston WTP MLOW Low,Marston WTP,Geosmin,11.0,ng/L,MLOWL
+1000273,11/16/2021 7:05,PL-MAR-MLOWM-A-6,,Marston WTP MLOW Mid,Marston WTP,Geosmin,11.0,ng/L,MLOWM
+1025832,11/18/2021 8:36,PL-MAR-MLOWM-A-4,,Marston WTP MLOW Mid,Marston WTP,Geosmin,6.0,ng/L,MLOWM
+1000274,11/23/2021 10:55,PL-MAR-MLOWM-A-6,,Marston WTP MLOW Mid,Marston WTP,Geosmin,9.0,ng/L,MLOWM
+1029283,11/26/2021 7:50,PL-MAR-MLOWM-A-7,Sampled at tower,Marston WTP MLOW Mid,Marston WTP,Geosmin,10.0,ng/L,MLOWM
+1029281,11/26/2021 8:11,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,6.0,ng/L,MLOWM
+1030209,11/30/2021 7:55,PL-MAR-MLOWM-A-7,,Marston WTP MLOW Mid,Marston WTP,Geosmin,10.0,ng/L,MLOWM
+1000275,11/30/2021 8:10,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,6.0,ng/L,MLOWM
+1033580,12/2/2021 7:51,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,6.0,ng/L,MLOWM
+1033584,12/2/2021 8:09,PL-MAR-MLOWM-A-7,,Marston WTP MLOW Mid,Marston WTP,Geosmin,10.0,ng/L,MLOWM
+1016353,12/7/2021 7:25,PL-MAR-MLOWM-A-7,Sampled at tower,Marston WTP MLOW Mid,Marston WTP,Geosmin,8.0,ng/L,MLOWM
+1036692,12/9/2021 8:12,PL-MAR-MLOWM-A-7,,Marston WTP MLOW Mid,Marston WTP,Geosmin,8.0,ng/L,MLOWM
+1016354,12/14/2021 8:06,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,8.0,ng/L,MLOWM
+1039932,12/16/2021 11:42,PL-MAR-MLOWM-A-7,,Marston WTP MLOW Mid,Marston WTP,Geosmin,8.0,ng/L,MLOWM
+1016355,12/21/2021 8:15,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,8.0,ng/L,MLOWM
+1016356,12/28/2021 8:10,PL-MAR-MLOWM-A-7,,Marston WTP MLOW Mid,Marston WTP,Geosmin,6.0,ng/L,MLOWM
+1044215,12/30/2021 7:50,PL-MAR-MLOWM-A-7,,Marston WTP MLOW Mid,Marston WTP,Geosmin,6.0,ng/L,MLOWM
+1032391,1/4/2022 8:22,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,6.0,ng/L,MLOWM
+1049798,1/6/2022 7:27,PL-MAR-MLOWM-A-7,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,6.0,ng/L,MLOWM
+1032392,1/11/2022 8:45,PL-MAR-MLOWM-A-7,,Marston WTP MLOW Mid,Marston WTP,Geosmin,6.0,ng/L,MLOWM
+1052225,1/13/2022 7:50,PL-MAR-MLOWM-A-7,,Marston WTP MLOW Mid,Marston WTP,Geosmin,6.0,ng/L,MLOWM
+1032393,1/18/2022 8:15,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,6.0,ng/L,MLOWM
+1054191,1/20/2022 8:46,PL-MAR-MLOWM-A-7,,Marston WTP MLOW Mid,Marston WTP,Geosmin,6.0,ng/L,MLOWM
+1032394,1/25/2022 8:46,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,6.0,ng/L,MLOWM
+1055977,1/27/2022 8:45,PL-MAR-MLOWM-A-7,,Marston WTP MLOW Mid,Marston WTP,Geosmin,5.0,ng/L,MLOWM
+1032395,2/1/2022 8:23,PL-MAR-MLOWM-6,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,4.0,ng/L,MLOWM
+1059940,2/3/2022 8:28,PL-MAR-MLOWM-6,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,7.0,ng/L,MLOWM
+1046336,2/8/2022 8:20,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,7.0,ng/L,MLOWM
+1065894,2/10/2022 8:00,PL-MAR-MLOWM-A-7,,Marston WTP MLOW Mid,Marston WTP,Geosmin,7.0,ng/L,MLOWM
+1046337,2/15/2022 9:52,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,7.0,ng/L,MLOWM
+1068133,2/17/2022 10:49,PL-MAR-MLOWM-A,,Marston WTP MLOW Mid,Marston WTP,Geosmin,7.0,ng/L,MLOWM
+1046338,2/22/2022 8:57,PL-MAR-MLOWM-7,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,7.0,ng/L,MLOWM
+1070572,2/24/2022 9:16,PL-MAR-MLOWM-A,,Marston WTP MLOW Mid,Marston WTP,Geosmin,6.0,ng/L,MLOWM
+1046339,3/1/2022 8:52,PL-MAR-MLOWM-A-7,,Marston WTP MLOW Mid,Marston WTP,Geosmin,7.0,ng/L,MLOWM
+1076368,3/3/2022 8:37,PL-MAR-MLOWM-A-7,,Marston WTP MLOW Mid,Marston WTP,Geosmin,6.0,ng/L,MLOWM
+1077893,3/8/2022 8:48,PL-MAR-MLOWH-A-4,,Marston WTP MLOW High,Marston WTP,Geosmin,5.0,ng/L,MLOWH
+1058906,3/8/2022 8:50,PL-MAR-MLOWM-A-7,,Marston WTP MLOW Mid,Marston WTP,Geosmin,5.0,ng/L,MLOWM
+1077891,3/8/2022 8:54,PL-MAR-MLOWL-A-10,,Marston WTP MLOW Low,Marston WTP,Geosmin,5.0,ng/L,MLOWL
+1078555,3/10/2022 9:05,PL-MAR-MLOWM-7,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,5.0,ng/L,MLOWM
+1078551,3/10/2022 9:07,PL-MAR-MLOWH-4,Marston WTP MLOW High,Marston WTP MLOW High,Marston WTP,Geosmin,5.0,ng/L,MLOWH
+1078549,3/10/2022 9:09,PL-MAR-MLOWL-10,Marston WTP MLOW Low,Marston WTP MLOW Low,Marston WTP,Geosmin,5.0,ng/L,MLOWL
+1058907,3/15/2022 10:01,PL-MAR-MLOWM-7,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,6.0,ng/L,MLOWM
+1081413,3/17/2022 9:10,PL-MAR-MLOWM-A-7,,Marston WTP MLOW Mid,Marston WTP,Geosmin,5.0,ng/L,MLOWM
+1058908,3/22/2022 9:00,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,6.0,ng/L,MLOWM
+1084451,3/24/2022 14:01,PL-MAR-MLOWM-A,,Marston WTP MLOW Mid,Marston WTP,Geosmin,5.0,ng/L,MLOWM
+1058909,3/29/2022 9:00,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,4.0,ng/L,MLOWM
+1086503,3/31/2022 8:08,PL-MAR-MLOWM-A-7,,Marston WTP MLOW Mid,Marston WTP,Geosmin,4.0,ng/L,MLOWM
+1091180,4/7/2022 8:47,PL-MAR-MLOWM-A,,Marston WTP MLOW Mid,Marston WTP,Geosmin,3.0,ng/L,MLOWM
+1074238,4/12/2022 8:31,PL-MAR-MLOWM-4,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,3.0,ng/L,MLOWM
+1074239,4/18/2022 10:25,PL-MAR-MLOWM-4,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,3.0,ng/L,MLOWM
+1088833,5/3/2022 12:02,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,2.0,ng/L,MLOWM
+1106471,5/5/2022 14:33,PL-MAR-MLOWM-A-4,,Marston WTP MLOW Mid,Marston WTP,Geosmin,2.0,ng/L,MLOWM
+1088834,5/10/2022 9:42,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,3.0,ng/L,MLOWM
+1088835,5/17/2022 9:11,PL-MAR-MLOWM-A-4,,Marston WTP MLOW Mid,Marston WTP,Geosmin,2.0,ng/L,MLOWM
+1111687,5/19/2022 10:01,PL-MAR-MLOWM-A-4,,Marston WTP MLOW Mid,Marston WTP,Geosmin,2.0,ng/L,MLOWM
+1088836,5/24/2022 9:32,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,2.0,ng/L,MLOWM
+1114355,5/26/2022 15:22,PL-MAR-MLOWM-A-4,,Marston WTP MLOW Mid,Marston WTP,Geosmin,3.0,ng/L,MLOWM
+1088837,5/31/2022 9:01,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,3.0,ng/L,MLOWM
+1119241,6/2/2022 9:07,PL-MAR-MLOWM-A-4,,Marston WTP MLOW Mid,Marston WTP,Geosmin,3.0,ng/L,MLOWM
+1104131,6/14/2022 9:01,PL-MAR-MLOWM,Marston WTP MLOW Mid,Marston WTP MLOW Mid,Marston WTP,Geosmin,3.0,ng/L,MLOWM

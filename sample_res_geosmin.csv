@@ -1,0 +1,260 @@
+SAMPLE_NUMBER,SAMPLED_DATE,SAMPLE_NAME,SAMPLING_POINT_DESCRIPTION,SITE,FACILITY,ANALYTE,FORMATTED_ENTRY,UNITS,DEPTH,Target,Date,Time
+221912,7/2/12 14:40,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,26.69,ng/L,5,MLOWM,7/2/2012,14:40:00
+222026,7/10/12 14:00,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4.64,ng/L,5,MLOWM,7/10/2012,14:00:00
+222352,7/18/12 8:40,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,24.63,ng/L,5,MLOWM,7/18/2012,8:40:00
+222470,7/25/12 8:45,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,62.66,ng/L,5,MLOWM,7/25/2012,8:45:00
+222471,7/25/12 8:50,RS-MR-01-15,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5.07,ng/L,15,MLOWL,7/25/2012,8:50:00
+222578,7/30/12 12:57,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,17.4,ng/L,5,MLOWM,7/30/2012,12:57:00
+222579,7/30/12 13:03,RS-MR-01-15,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3.48,ng/L,15,MLOWL,7/30/2012,13:03:00
+223754,8/6/12 11:36,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5.29,ng/L,5,MLOWM,8/6/2012,11:36:00
+223919,8/13/12 13:15,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5.6,ng/L,5,MLOWM,8/13/2012,13:15:00
+224128,8/20/12 10:55,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4.02,ng/L,5,MLOWM,8/20/2012,10:55:00
+225897,9/17/12 10:57,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,24.35,ng/L,5,MLOWM,9/17/2012,10:57:00
+226048,9/24/12 9:22,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,7.31,ng/L,5,MLOWM,9/24/2012,9:22:00
+226049,9/24/12 9:23,RS-MR-01-15,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5.78,ng/L,15,MLOWL,9/24/2012,9:23:00
+227416,10/15/12 11:12,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,113.4,ng/L,5,MLOWM,10/15/2012,11:12:00
+227740,10/22/12 11:20,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,58.03,ng/L,5,MLOWM,10/22/2012,11:20:00
+228893,11/5/12 11:55,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,80.29,ng/L,5,MLOWM,11/5/2012,11:55:00
+229030,11/13/12 13:35,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,44,ng/L,5,MLOWM,11/13/2012,13:35:00
+229154,11/19/12 12:22,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,34.9,ng/L,5,MLOWM,11/19/2012,12:22:00
+230300,12/3/12 11:25,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,26.3,ng/L,5,MLOWM,12/3/2012,11:25:00
+230301,12/3/12 11:30,RS-MR-01-15,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,23.9,ng/L,15,MLOWL,12/3/2012,11:30:00
+230630,12/18/12 11:48,RS-MR-01-15,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,14.72,ng/L,15,MLOWL,12/18/2012,11:48:00
+230608,12/18/12 11:58,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,18.48,ng/L,5,MLOWM,12/18/2012,11:58:00
+231868,1/11/13 10:15,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,11.61,ng/L,5,MLOWM,1/11/2013,10:15:00
+231869,1/11/13 10:17,RS-MR-01-10,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,11.65,ng/L,10,MLOWM,1/11/2013,10:17:00
+240892,6/4/13 10:50,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.74,ng/L,5,MLOWM,6/4/2013,10:50:00
+241795,6/25/13 10:08,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,5,MLOWM,6/25/2013,10:08:00
+241794,6/25/13 10:10,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3,ng/L,1,MLOWH,6/25/2013,10:10:00
+243091,7/2/13 10:05,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,1,MLOWH,7/2/2013,10:05:00
+244021,7/23/13 8:35,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,18.51,ng/L,5,MLOWM,7/23/2013,8:35:00
+245629,7/29/13 9:25,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,14.5,ng/L,5,MLOWM,7/29/2013,9:25:00
+245700,8/5/13 10:45,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.21,ng/L,5,MLOWM,8/5/2013,10:45:00
+246103,8/12/13 11:00,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1,ng/L,1,MLOWH,8/12/2013,11:00:00
+246105,8/12/13 11:05,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1,ng/L,5,MLOWM,8/12/2013,11:05:00
+246107,8/12/13 11:07,RS-MR-01-10,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1,ng/L,10,MLOWM,8/12/2013,11:07:00
+246797,8/26/13 10:36,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1,ng/L,1,MLOWH,8/26/2013,10:36:00
+273219,9/2/14 9:40,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1,ng/L,1,MLOWH,9/2/2014,9:40:00
+273221,9/2/14 9:42,RS-MR-01-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1,ng/L,4,MLOWM,9/2/2014,9:42:00
+273682,9/9/14 10:45,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1,ng/L,1,MLOWH,9/9/2014,10:45:00
+273683,9/9/14 11:00,RS-MR-01-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1,ng/L,4,MLOWM,9/9/2014,11:00:00
+274000,9/16/14 11:01,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3,ng/L,1,MLOWH,9/16/2014,11:01:00
+274002,9/16/14 11:02,RS-MR-01-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,31,ng/L,4,MLOWM,9/16/2014,11:02:00
+274208,9/18/14 14:20,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,21,ng/L,1,MLOWH,9/18/2014,14:20:00
+274210,9/18/14 14:25,RS-MR-01-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4,ng/L,4,MLOWM,9/18/2014,14:25:00
+274415,9/23/14 13:30,RS-MR-01-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,18,ng/L,4,MLOWM,9/23/2014,13:30:00
+275749,10/6/14 9:15,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,34,ng/L,1,MLOWH,10/6/2014,9:15:00
+275751,10/6/14 9:17,RS-MR-01-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,37,ng/L,4,MLOWM,10/6/2014,9:17:00
+276186,10/13/14 14:42,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,23,ng/L,1,MLOWH,10/13/2014,14:42:00
+276188,10/13/14 14:45,RS-MR-01-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,26,ng/L,4,MLOWM,10/13/2014,14:45:00
+276668,10/20/14 15:30,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,15,ng/L,1,MLOWH,10/20/2014,15:30:00
+276670,10/20/14 15:35,RS-MR-01-3,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,15,ng/L,3,MLOWM,10/20/2014,15:35:00
+278013,11/4/14 11:05,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,8,ng/L,1,MLOWH,11/4/2014,11:05:00
+309517,7/28/15 11:40,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,15,ng/L,5,MLOWM,7/28/2015,11:40:00
+312994,8/11/15 10:05,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,27,ng/L,5,MLOWM,8/11/2015,10:05:00
+316872,9/8/15 10:55,RS-MR-01-12,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5.18,ng/L,12,MLOWM,9/8/2015,10:55:00
+316869,9/8/15 11:50,RS-MR-01-7,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,23.61,ng/L,7,MLOWM,9/8/2015,11:50:00
+318730,9/28/15 13:05,RS-MR-01-3,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,41.25,ng/L,3,MLOWM,9/28/2015,13:05:00
+318732,9/28/15 13:10,RS-MR-01-7,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,12.25,ng/L,7,MLOWM,9/28/2015,13:10:00
+318734,9/28/15 13:15,RS-MR-01-12,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,14.45,ng/L,12,MLOWM,9/28/2015,13:15:00
+322603,10/5/15 11:20,RS-MR-01-3,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,18,ng/L,3,MLOWM,10/5/2015,11:20:00
+322606,10/5/15 11:23,RS-MR-01-7,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,18,ng/L,7,MLOWM,10/5/2015,11:23:00
+322608,10/5/15 11:25,RS-MR-01-12,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,11,ng/L,12,MLOWM,10/5/2015,11:25:00
+323089,10/12/15 13:40,RS-MR-01-3,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,7,ng/L,3,MLOWM,10/12/2015,13:40:00
+323093,10/12/15 13:45,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,7,ng/L,5,MLOWM,10/12/2015,13:45:00
+323096,10/12/15 13:50,RS-MR-01-15,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,14,ng/L,15,MLOWL,10/12/2015,13:50:00
+323628,10/20/15 9:56,RS-MR-01-3,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3,ng/L,3,MLOWM,10/20/2015,9:56:00
+323631,10/20/15 9:58,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3,ng/L,5,MLOWM,10/20/2015,9:58:00
+323635,10/20/15 10:00,RS-MR-01-15,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5,ng/L,15,MLOWL,10/20/2015,10:00:00
+324105,10/26/15 11:35,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3,ng/L,1,MLOWH,10/26/2015,11:35:00
+324108,10/26/15 11:45,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4,ng/L,5,MLOWM,10/26/2015,11:45:00
+326813,11/3/15 10:45,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5,ng/L,1,MLOWH,11/3/2015,10:45:00
+326816,11/3/15 10:50,RS-MR-01-5,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1,ng/L,5,MLOWM,11/3/2015,10:50:00
+360329,7/13/16 8:45,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,13,ng/L,1,MLOWH,7/13/2016,8:45:00
+360827,7/19/16 14:10,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,15,ng/L,1,MLOWH,7/19/2016,14:10:00
+360835,7/19/16 14:20,RS-MR-01-7,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,40,ng/L,7,MLOWM,7/19/2016,14:20:00
+360842,7/19/16 14:30,RS-MR-01-11,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,11,MLOWM,7/19/2016,14:30:00
+360849,7/19/16 14:40,RS-MR-01-14,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,14,MLOWM,7/19/2016,14:40:00
+361398,7/26/16 8:30,RS-MR-01-7,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,16,ng/L,7,MLOWM,7/26/2016,8:30:00
+361405,7/26/16 8:35,RS-MR-01-11,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,11,MLOWM,7/26/2016,8:35:00
+361412,7/26/16 8:40,RS-MR-01-14,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3,ng/L,14,MLOWM,7/26/2016,8:40:00
+361807,8/2/16 9:42,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,10,ng/L,1,MLOWH,8/2/2016,9:42:00
+361815,8/2/16 9:48,RS-MR-01-7,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,10,ng/L,7,MLOWM,8/2/2016,9:48:00
+361822,8/2/16 9:54,RS-MR-01-11,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,8,ng/L,11,MLOWM,8/2/2016,9:54:00
+361829,8/2/16 10:00,RS-MR-01-14,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,8,ng/L,14,MLOWM,8/2/2016,10:00:00
+364765,8/10/16 10:45,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3,ng/L,1,MLOWH,8/10/2016,10:45:00
+364773,8/10/16 10:55,RS-MR-01-7,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5,ng/L,7,MLOWM,8/10/2016,10:55:00
+364780,8/10/16 11:00,RS-MR-01-11,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,11,ng/L,11,MLOWM,8/10/2016,11:00:00
+364787,8/10/16 11:05,RS-MR-01-14,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,6,ng/L,14,MLOWM,8/10/2016,11:05:00
+365505,8/15/16 9:50,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,1,MLOWH,8/15/2016,9:50:00
+365513,8/15/16 10:05,RS-MR-01-7,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3,ng/L,7,MLOWM,8/15/2016,10:05:00
+365520,8/15/16 10:10,RS-MR-01-11,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,8,ng/L,11,MLOWM,8/15/2016,10:10:00
+365527,8/15/16 10:17,RS-MR-01-14,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,8,ng/L,14,MLOWM,8/15/2016,10:17:00
+366462,8/24/16 11:15,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,1,MLOWH,8/24/2016,11:15:00
+366470,8/24/16 11:20,RS-MR-01-7,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,7,MLOWM,8/24/2016,11:20:00
+366477,8/24/16 11:25,RS-MR-01-11,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4,ng/L,11,MLOWM,8/24/2016,11:25:00
+366484,8/24/16 11:30,RS-MR-01-14,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4,ng/L,14,MLOWM,8/24/2016,11:30:00
+367411,8/30/16 10:00,RS-MR-01-7,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,7,MLOWM,8/30/2016,10:00:00
+367419,8/30/16 10:05,RS-MR-01-11,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,11,MLOWM,8/30/2016,10:05:00
+367427,8/30/16 10:10,RS-MR-01-14,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,14,MLOWM,8/30/2016,10:10:00
+371049,9/6/16 9:05,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,7,ng/L,1,MLOWH,9/6/2016,9:05:00
+371057,9/6/16 9:10,RS-MR-01-7,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4,ng/L,7,MLOWM,9/6/2016,9:10:00
+371064,9/6/16 9:15,RS-MR-01-11,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1,ng/L,11,MLOWM,9/6/2016,9:15:00
+371071,9/6/16 9:20,RS-MR-01-14,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1,ng/L,14,MLOWM,9/6/2016,9:20:00
+372049,9/12/16 11:40,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,14,ng/L,1,MLOWH,9/12/2016,11:40:00
+372064,9/12/16 11:50,RS-MR-01-11,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,11,MLOWM,9/12/2016,11:50:00
+372071,9/12/16 11:55,RS-MR-01-14,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,14,MLOWM,9/12/2016,11:55:00
+373317,9/21/16 8:35,RS-MR-01-7,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,15,ng/L,7,MLOWM,9/21/2016,8:35:00
+373324,9/21/16 8:40,RS-MR-01-11,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4,ng/L,11,MLOWM,9/21/2016,8:40:00
+373331,9/21/16 8:45,RS-MR-01-14,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3,ng/L,14,MLOWM,9/21/2016,8:45:00
+373953,9/26/16 14:00,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,31,ng/L,1,MLOWH,9/26/2016,14:00:00
+373962,9/26/16 14:05,RS-MR-01-7,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,25,ng/L,7,MLOWM,9/26/2016,14:05:00
+373970,9/26/16 14:15,RS-MR-01-11,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,8,ng/L,11,MLOWM,9/26/2016,14:15:00
+373977,9/26/16 14:20,RS-MR-01-14,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,7,ng/L,14,MLOWM,9/26/2016,14:20:00
+422542,6/5/17 14:30,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1,ng/L,1,MLOWH,6/5/2017,14:30:00
+422551,6/5/17 14:35,RS-MR-01-4,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,4,MLOWM,6/5/2017,14:35:00
+422558,6/5/17 14:40,RS-MR-01-8,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,8,MLOWM,6/5/2017,14:40:00
+422565,6/5/17 14:45,RS-MR-01-16,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3,ng/L,16,MLOWL,6/5/2017,14:45:00
+423380,6/19/17 1:50,RS-MR-01-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,1,MLOWH,6/19/2017,1:50:00
+423394,6/19/17 2:00,RS-MR-01-8,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,8,MLOWM,6/19/2017,2:00:00
+423401,6/19/17 2:10,RS-MR-01-16,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,16,MLOWL,6/19/2017,2:10:00
+429257,7/11/17 13:45,RS-MR-01-A-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1,ng/L,1,MLOWH,7/11/2017,13:45:00
+429260,7/11/17 13:50,RS-MR-01-A-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1,ng/L,4,MLOWM,7/11/2017,13:50:00
+429263,7/11/17 13:55,RS-MR-01-A-7,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3,ng/L,7,MLOWM,7/11/2017,13:55:00
+429266,7/11/17 14:00,RS-MR-01-A-10,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,10,MLOWM,7/11/2017,14:00:00
+429699,7/17/17 13:30,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4,ng/L,1,MLOWH,7/17/2017,13:30:00
+429708,7/17/17 13:35,RS-MR-01-4,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5,ng/L,4,MLOWM,7/17/2017,13:35:00
+429715,7/17/17 13:40,RS-MR-01-7,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,6,ng/L,7,MLOWM,7/17/2017,13:40:00
+429723,7/17/17 13:45,RS-MR-01-16,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3,ng/L,16,MLOWL,7/17/2017,13:45:00
+430829,7/31/17 10:45,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5,ng/L,1,MLOWH,7/31/2017,10:45:00
+430837,7/31/17 10:50,RS-MR-01-4,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5,ng/L,4,MLOWM,7/31/2017,10:50:00
+430844,7/31/17 10:55,RS-MR-01-8,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5,ng/L,8,MLOWM,7/31/2017,10:55:00
+430851,7/31/17 11:00,RS-MR-01-16,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3,ng/L,16,MLOWL,7/31/2017,11:00:00
+434367,8/14/17 13:35,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4.48,ng/L,1,MLOWH,8/14/2017,13:35:00
+434374,8/14/17 13:40,RS-MR-01-4,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,11.57,ng/L,4,MLOWM,8/14/2017,13:40:00
+434381,8/14/17 13:45,RS-MR-01-8,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4.87,ng/L,8,MLOWM,8/14/2017,13:45:00
+434388,8/14/17 13:50,RS-MR-01-16,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1.41,ng/L,16,MLOWL,8/14/2017,13:50:00
+440617,9/18/17 14:20,RS-MR-01-A-8,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1,ng/L,8,MLOWM,9/18/2017,14:20:00
+441483,9/22/17 11:30,RS-MR-01-A-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,4,MLOWM,9/22/2017,11:30:00
+441486,9/22/17 11:32,RS-MR-01-A-8,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1,ng/L,8,MLOWM,9/22/2017,11:32:00
+448348,10/25/17 8:35,RS-MR-01-A-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,4,MLOWM,10/25/2017,8:35:00
+448353,10/25/17 8:45,RS-MR-01-A-12,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,12,MLOWM,10/25/2017,8:45:00
+473512,3/29/18 15:25,RS-MR-01-A-1,Immediately south of Marston intake tower,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,1,MLOWH,3/29/2018,15:25:00
+473863,3/29/18 15:30,RS-MR-01-A-8,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,8,MLOWM,3/29/2018,15:30:00
+489459,6/13/18 14:40,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1,ng/L,1,MLOWH,6/13/2018,14:40:00
+489469,6/13/18 15:04,RS-MR-01-8,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,8,MLOWM,6/13/2018,15:04:00
+489476,6/13/18 15:17,RS-MR-01-16,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,16,MLOWL,6/13/2018,15:17:00
+492793,6/27/18 14:25,RS-MR-01-8,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1,ng/L,8,MLOWM,6/27/2018,14:25:00
+497734,7/25/18 14:40,RS-MR-01-17,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,6,ng/L,17,MLOWL,7/25/2018,14:40:00
+498886,7/31/18 14:40,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,38,ng/L,1,MLOWH,7/31/2018,14:40:00
+498898,7/31/18 14:55,RS-MR-01-8,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,37,ng/L,8,MLOWM,7/31/2018,14:55:00
+498904,7/31/18 15:10,RS-MR-01-16,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4,ng/L,16,MLOWL,7/31/2018,15:10:00
+502032,8/8/18 14:25,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,13,ng/L,1,MLOWH,8/8/2018,14:25:00
+502039,8/8/18 14:35,RS-MR-01-8,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,12,ng/L,8,MLOWM,8/8/2018,14:35:00
+502042,8/8/18 14:40,RS-MR-01-17,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3,ng/L,17,MLOWL,8/8/2018,14:40:00
+502050,8/15/18 14:25,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,13,ng/L,1,MLOWH,8/15/2018,14:25:00
+502062,8/15/18 14:45,RS-MR-01-8,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,7,ng/L,8,MLOWM,8/15/2018,14:45:00
+502074,8/15/18 14:55,RS-MR-01-17,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,17,MLOWL,8/15/2018,14:55:00
+502996,8/22/18 14:45,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,10,ng/L,1,MLOWH,8/22/2018,14:45:00
+503000,8/22/18 14:50,RS-MR-01-8,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,9,ng/L,8,MLOWM,8/22/2018,14:50:00
+503002,8/22/18 15:00,RS-MR-01-17,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,1,ng/L,17,MLOWL,8/22/2018,15:00:00
+503006,8/29/18 14:38,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,15,ng/L,1,MLOWH,8/29/2018,14:38:00
+503011,8/29/18 14:50,RS-MR-01-8,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,10,ng/L,8,MLOWM,8/29/2018,14:50:00
+503013,8/29/18 15:00,RS-MR-01-18,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,7,ng/L,18,MLOWL,8/29/2018,15:00:00
+507619,9/5/18 9:12,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,23,ng/L,1,MLOWH,9/5/2018,9:12:00
+507623,9/5/18 9:20,RS-MR-01-9,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,16,ng/L,9,MLOWM,9/5/2018,9:20:00
+507626,9/5/18 9:40,RS-MR-01-18,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4,ng/L,18,MLOWL,9/5/2018,9:40:00
+508876,9/12/18 9:20,RS-MR-01-A-14,Marston Tower,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,18,ng/L,14,MLOWM,9/12/2018,9:20:00
+508879,9/12/18 9:22,RS-MR-01-A-4,Marston Tower,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,29,ng/L,4,MLOWM,9/12/2018,9:22:00
+508883,9/12/18 9:24,RS-MR-01-A-8,Marston Tower,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,27,ng/L,8,MLOWM,9/12/2018,9:24:00
+509287,9/19/18 13:55,RS-MR-01-A-1,Tower,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,18,ng/L,1,MLOWH,9/19/2018,13:55:00
+509295,9/19/18 14:20,RS-MR-01-A-6,Tower,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,25,ng/L,6,MLOWM,9/19/2018,14:20:00
+509303,9/19/18 14:30,RS-MR-01-A-12,Tower,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3,ng/L,12,MLOWM,9/19/2018,14:30:00
+509671,9/25/18 8:27,RS-MR-01-A-1,Tower,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,12,ng/L,1,MLOWH,9/25/2018,8:27:00
+509675,9/25/18 8:34,RS-MR-01-A-6,Tower,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,12,ng/L,6,MLOWM,9/25/2018,8:34:00
+509677,9/25/18 8:45,RS-MR-01-A-12,Tower,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,11,ng/L,12,MLOWL,9/25/2018,8:45:00
+514169,10/9/18 10:10,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,6,ng/L,1,MLOWH,10/9/2018,10:10:00
+514172,10/9/18 10:15,RS-MR-01-9,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,6,ng/L,9,MLOWM,10/9/2018,10:15:00
+514174,10/9/18 10:25,RS-MR-01-18,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5,ng/L,18,MLOWL,10/9/2018,10:25:00
+515652,10/17/18 14:40,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4,ng/L,1,MLOWH,10/17/2018,14:40:00
+515663,10/17/18 14:55,RS-MR-01-9,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,6,ng/L,9,MLOWM,10/17/2018,14:55:00
+515670,10/17/18 15:00,RS-MR-01-18,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4,ng/L,18,MLOWL,10/17/2018,15:00:00
+517995,10/23/18 13:37,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,6,ng/L,1,MLOWH,10/23/2018,13:37:00
+517999,10/23/18 13:43,RS-MR-01-9,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4,ng/L,9,MLOWM,10/23/2018,13:43:00
+518001,10/23/18 13:53,RS-MR-01-18,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4,ng/L,18,MLOWL,10/23/2018,13:53:00
+518707,10/30/18 9:15,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3,ng/L,1,MLOWH,10/30/2018,9:15:00
+518710,10/30/18 9:20,RS-MR-01-9,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3,ng/L,9,MLOWM,10/30/2018,9:20:00
+518712,10/30/18 9:30,RS-MR-01-18,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4,ng/L,18,MLOWL,10/30/2018,9:30:00
+519071,11/7/18 14:05,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4,ng/L,1,MLOWH,11/7/2018,14:05:00
+519076,11/7/18 14:15,RS-MR-01-9,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5,ng/L,9,MLOWM,11/7/2018,14:15:00
+519078,11/7/18 14:25,RS-MR-01-18,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4,ng/L,18,MLOWL,11/7/2018,14:25:00
+521768,11/14/18 13:26,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,49,ng/L,1,MLOWH,11/14/2018,13:26:00
+521772,11/14/18 13:42,RS-MR-01-9,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,6,ng/L,9,MLOWM,11/14/2018,13:42:00
+521779,11/14/18 13:51,RS-MR-01-18,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5,ng/L,18,MLOWL,11/14/2018,13:51:00
+527660,12/17/18 14:10,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3.8,ng/L,1,MLOWH,12/17/2018,14:10:00
+527671,12/17/18 14:25,RS-MR-01-8,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4.2,ng/L,8,MLOWM,12/17/2018,14:25:00
+527678,12/17/18 14:38,RS-MR-01-17,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3.4,ng/L,17,MLOWL,12/17/2018,14:38:00
+533413,1/8/19 14:10,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,1,MLOWH,1/8/2019,14:10:00
+533415,1/8/19 14:12,RS-MR-01-4,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3,ng/L,4,MLOWM,1/8/2019,14:12:00
+533417,1/8/19 14:14,RS-MR-01-10,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3,ng/L,10,MLOWM,1/8/2019,14:14:00
+557174,4/23/19 13:30,RS-MR-01-1,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,1,MLOWH,4/23/2019,13:30:00
+557177,4/23/19 13:45,RS-MR-01-5,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,5,MLOWM,4/23/2019,13:45:00
+557187,4/23/19 14:05,RS-MR-01-16,Marston Reservoir depth sampling location at buoy,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,16,MLOWL,4/23/2019,14:05:00
+564111,5/14/19 9:50,RS-MR-01-T,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,1,MLOWH,5/14/2019,9:50:00
+564113,5/14/19 10:15,RS-MR-01-B,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,18,MLOWL,5/14/2019,10:15:00
+564112,5/14/19 10:15,RS-MR-01-I,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,7,MLOWM,5/14/2019,10:15:00
+572956,6/24/19 14:18,RS-MR-01-T-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,1,MLOWH,6/24/2019,14:18:00
+572955,6/24/19 14:30,RS-MR-01-I-9,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,9,MLOWM,6/24/2019,14:30:00
+572954,6/24/19 14:42,RS-MR-01-B-18,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,18,MLOWL,6/24/2019,14:42:00
+568921,7/2/19 9:15,RS-MR-01-T-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,1,MLOWH,7/2/2019,9:15:00
+568944,7/2/19 9:37,RS-MR-01-I-7,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,7,MLOWM,7/2/2019,9:37:00
+568963,7/2/19 9:50,RS-MR-01-B-18,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,18,MLOWL,7/2/2019,9:50:00
+568932,7/16/19 9:43,RS-MR-01-T-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,1,MLOWH,7/16/2019,9:43:00
+568953,7/16/19 10:03,RS-MR-01-I-7,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,7,MLOWM,7/16/2019,10:03:00
+568972,7/16/19 10:10,RS-MR-01-B-18,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,18,MLOWL,7/16/2019,10:10:00
+582229,7/24/19 11:35,RS-MR-01-A-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,10,ng/L,4,MLOWM,7/24/2019,11:35:00
+582231,7/24/19 11:45,RS-MR-01-A-8,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,8,MLOWM,7/24/2019,11:45:00
+582233,7/24/19 11:45,RS-MR-01-A-12,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,3,ng/L,12,MLOWM,7/24/2019,11:45:00
+586957,8/1/19 9:08,RS-MR-01-A-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,26,ng/L,4,MLOWM,8/1/2019,9:08:00
+586959,8/1/19 9:10,RS-MR-01-A-8,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,7,ng/L,8,MLOWM,8/1/2019,9:10:00
+586963,8/1/19 9:15,RS-MR-01-A-12,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5,ng/L,12,MLOWM,8/1/2019,9:15:00
+576308,8/20/19 10:10,RS-MR-01-I-6,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,7.9,ng/L,6,MLOWM,8/20/2019,10:10:00
+593246,8/22/19 9:02,RS-MR-01-A-8,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2.28,ng/L,8,MLOWM,8/22/2019,9:02:00
+586042,9/10/19 11:30,RS-MR-01-T-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,10,ng/L,1,MLOWH,9/10/2019,11:30:00
+602135,9/10/19 11:35,RS-MR-01-I-6,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,12,ng/L,6,MLOWM,9/10/2019,11:35:00
+602987,9/12/19 16:35,RS-MR-01-A-6,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,7,ng/L,6,MLOWM,9/12/2019,16:35:00
+602986,9/12/19 16:35,RS-MR-01-A-6,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,11,ng/L,6,MLOWM,9/12/2019,16:35:00
+586053,9/24/19 11:53,RS-MR-01-T-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,16,ng/L,1,MLOWH,9/24/2019,11:53:00
+586074,9/24/19 12:10,RS-MR-01-I-6,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,9,ng/L,6,MLOWM,9/24/2019,12:10:00
+586093,9/24/19 12:18,RS-MR-01-B-18,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,7,ng/L,18,MLOWL,9/24/2019,12:18:00
+609687,10/1/19 8:52,RS-MR-01-A-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,6.69,ng/L,4,MLOWM,10/1/2019,8:52:00
+609689,10/1/19 8:57,RS-MR-01-A-8,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,6.44,ng/L,8,MLOWM,10/1/2019,8:57:00
+609691,10/1/19 9:02,RS-MR-01-A-12,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,7.23,ng/L,12,MLOWM,10/1/2019,9:02:00
+615056,10/15/19 10:30,RS-MR-01-A-8,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,27,ng/L,8,MLOWM,10/15/2019,10:30:00
+598593,10/15/19 11:10,RS-MR-01-T-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,56,ng/L,1,MLOWH,10/15/2019,11:10:00
+598604,10/15/19 11:20,RS-MR-01-I-8,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,48,ng/L,8,MLOWM,10/15/2019,11:20:00
+598613,10/15/19 11:30,RS-MR-01-B-18,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,33,ng/L,18,MLOWL,10/15/2019,11:30:00
+616274,10/22/19 12:32,RS-MR-01-A-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,34,ng/L,4,MLOWM,10/22/2019,12:32:00
+616276,10/22/19 12:35,RS-MR-01-A-8,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,27,ng/L,8,MLOWM,10/22/2019,12:35:00
+616278,10/22/19 12:37,RS-MR-01-A-12,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,32,ng/L,12,MLOWM,10/22/2019,12:37:00
+643431,1/7/20 13:09,RS-MR-01-A-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,11,ng/L,1,MLOWH,1/7/2020,13:09:00
+643448,1/7/20 13:14,RS-MR-01-A-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,10,ng/L,4,MLOWM,1/7/2020,13:14:00
+643452,1/7/20 13:19,RS-MR-01-A-10,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,10,ng/L,10,MLOWM,1/7/2020,13:19:00
+651774,1/28/20 13:12,RS-MR-01-A-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,8,ng/L,1,MLOWH,1/28/2020,13:12:00
+651776,1/28/20 13:14,RS-MR-01-A-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,7,ng/L,4,MLOWM,1/28/2020,13:14:00
+651778,1/28/20 13:15,RS-MR-01-A-10,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,8,ng/L,10,MLOWM,1/28/2020,13:15:00
+659645,2/12/20 8:26,RS-MR-01-A-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5.3,ng/L,1,MLOWH,2/12/2020,8:26:00
+659647,2/12/20 8:27,RS-MR-01-A-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,6.3,ng/L,4,MLOWM,2/12/2020,8:27:00
+659649,2/12/20 8:30,RS-MR-01-A-10,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5.9,ng/L,10,MLOWM,2/12/2020,8:30:00
+664981,2/25/20 7:23,RS-MR-01-A-10,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5,ng/L,10,MLOWM,2/25/2020,7:23:00
+664977,2/25/20 7:25,RS-MR-01-A-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5,ng/L,4,MLOWM,2/25/2020,7:25:00
+664973,2/25/20 7:30,RS-MR-01-A-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5,ng/L,1,MLOWH,2/25/2020,7:30:00
+669432,3/3/20 8:25,RS-MR-01-A-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,4,ng/L,1,MLOWH,3/3/2020,8:25:00
+669434,3/3/20 8:27,RS-MR-01-A-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5,ng/L,4,MLOWM,3/3/2020,8:27:00
+669436,3/3/20 8:30,RS-MR-01-A-10,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,5,ng/L,10,MLOWM,3/3/2020,8:30:00
+668272,4/21/20 9:50,RS-MR-01-T-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,1,MLOWH,4/21/2020,9:50:00
+668283,4/21/20 10:00,RS-MR-01-I-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,4,MLOWM,4/21/2020,10:00:00
+668292,4/21/20 10:10,RS-MR-01-B-11,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,2,ng/L,11,MLOWM,4/21/2020,10:10:00
+801385,10/16/20 8:58,RS-MR-01-I-4,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,14,ng/L,4,MLOWM,10/16/2020,8:58:00
+801383,10/16/20 8:58,RS-MR-01-B-9,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,14,ng/L,9,MLOWM,10/16/2020,8:58:00
+801381,10/16/20 8:58,RS-MR-01-T-1,,Marston Reservoir Depth Sampling Location at Buoy,Marston,Geosmin,15,ng/L,1,MLOWH,10/16/2020,8:58:00
