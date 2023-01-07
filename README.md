@@ -1,4 +1,4 @@
-#Geosmin Occurrences in Marston Reservoir
+# Geosmin Occurrences in Marston Reservoir
 ### Using multivariate linear regression and qualitative system dynamics to understand predictor variable importance and process dynamics
 
 ------------
@@ -22,11 +22,11 @@ All analysis was done using the *gds* Anaconda environment (meant for data analy
 - matplotlib
 - scipy.interpolate
 
-#####Basic data files
+### Basic data files
 **"20220613 Marston C20 10 year Geosmin MIB LiMS data.xlsx"**: The LiMS dataset sequestration of geosmin data gotten from Denver Water. Geosmin data was separated from 2-(MIB) data and boundary readings to find viable occurrences for analysis. 
 **"South System Treatment Monthly Report.xlsm"**: LiMS dataset that has nutrient data for Denver Water's South System. 
 
-##### Cleaning and analysis files - operate in order of listing
+### Cleaning and analysis files - operate in order of listing
 **"geosmin_data_cleaning.ipynb"**: Jupyter Notebook with that includes cleaning and seperation of the geosmin data into the 4 main locations of interest for this analysis. The file uses the "**geosmin_data_20122022.csv**", which is a sequestered version of all raw geosmin data from the LiMS dataset file. The file produces the following files:
 - **sample_res_geosmin.csv**: geosmin readings for Marston Reservoir samples
 - **wtp_samples_geosmin.csv:** geosmin readings for Marston WTP samples
